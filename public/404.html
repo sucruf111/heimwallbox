@@ -3,9 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Seite nicht gefunden — heimwallbox.de</title>
+  <title>Seite nicht gefunden | heimwallbox</title>
   <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0c1524">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icon-512.png">
   <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
@@ -14,17 +16,17 @@
     <div class="wrap header-inner">
       <a class="wordmark" href="/">
         <svg class="wordmark-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-          <rect width="32" height="32" rx="3" fill="#1b242c"/>
-          <rect x="7" y="6" width="18" height="20" rx="1.5" fill="#f4f0e7"/>
-          <circle cx="16" cy="15" r="4.2" fill="none" stroke="#a33b26" stroke-width="2"/>
-          <rect x="13.2" y="22.2" width="5.6" height="1.6" fill="#a33b26"/>
+          <rect width="32" height="32" rx="7" fill="#0c1524"/>
+          <rect x="7" y="5" width="18" height="22" rx="3" fill="#f3f6fa"/>
+          <circle cx="16" cy="17.5" r="4.6" fill="none" stroke="#1b56d9" stroke-width="2.2"/>
+          <circle cx="16" cy="9.5" r="1.5" fill="#55d7ff"/>
         </svg>
-        heimwallbox
+        <span class="wordmark-text">heim<b>wallbox</b></span>
       </a>
       <nav class="nav-main" aria-label="Hauptnavigation">
         <a href="/">11 kW oder 22 kW</a>
-        <a href="/installation">Installation</a>
-        <a href="/mieter">Mieter und WEG</a>
+        <a href="/installation/">Installation</a>
+        <a href="/mieter/">Mieter &amp; WEG</a>
       </nav>
     </div>
   </header>
@@ -34,40 +36,57 @@
     <h1>Diese Seite gibt es nicht</h1>
     <p class="lede">Unter dieser Adresse liegt keine Seite. Vielleicht hilft eine dieser drei weiter:</p>
 
-    <aside class="cta-hero" aria-label="Wallbox-Empfehlungen">
-      <p class="cta-hero-text">
-        <strong>Unsere Wallbox-Empfehlungen</strong>
-        <span>Die besten 11-kW- und 22-kW-Modelle — mit Preisen, Stärken und Schwächen.</span>
-      </p>
-      <p class="cta-soon cta-soon--light">Link folgt</p>
-    </aside>
-
     <div class="more-grid">
       <a class="more-card" href="/">
-        <strong>11 kW oder 22 kW</strong>
-        <span>Welche Ladeleistung Sie wirklich brauchen</span>
+        <strong>Wallbox: 11 kW oder 22 kW?</strong>
+        <span>Welche Ladeleistung Sie zu Hause wirklich brauchen</span>
       </a>
-      <a class="more-card" href="/installation">
-        <strong>Anmeldung &amp; Installation</strong>
-        <span>Netzbetreiber, Elektriker und was das kostet</span>
+      <a class="more-card" href="/installation/">
+        <strong>Wallbox-Installation &amp; Anmeldung</strong>
+        <span>Netzbetreiber, Elektriker, Kosten — und § 14a EnWG</span>
       </a>
-      <a class="more-card" href="/mieter">
-        <strong>Mieter &amp; Wohnungseigentümer</strong>
+      <a class="more-card" href="/mieter/">
+        <strong>Wallbox für Mieter &amp; WEG</strong>
         <span>Ihre Rechte nach § 554 BGB und § 20 WEG</span>
       </a>
     </div>
+
+    <aside class="cta" aria-labelledby="cta-404">
+      <h2 id="cta-404">Unsere Wallbox-Empfehlungen</h2>
+      <p>Wir stellen derzeit die besten 11-kW- und 22-kW-Wallboxen zusammen — mit Preisen, Stärken und Schwächen der einzelnen Modelle.</p>
+      <p class="cta-soon">Link folgt</p>
+    </aside>
   </main>
 
   <footer class="site-footer">
-    <div class="wrap footer-inner">
-      <div class="footer-brand">
-        <strong>heimwallbox</strong>
-        <p>Ratgeber für das Laden zu Hause</p>
+    <div class="wrap">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a class="wordmark" href="/">
+            <svg class="wordmark-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+              <rect width="32" height="32" rx="7" fill="#0c1524"/>
+              <rect x="7" y="5" width="18" height="22" rx="3" fill="#f3f6fa"/>
+              <circle cx="16" cy="17.5" r="4.6" fill="none" stroke="#1b56d9" stroke-width="2.2"/>
+              <circle cx="16" cy="9.5" r="1.5" fill="#55d7ff"/>
+            </svg>
+            <span class="wordmark-text">heim<b>wallbox</b></span>
+          </a>
+          <p>Der Ratgeber für die eigene Wallbox: Kauf, Anmeldung und Ihr gutes Recht beim Laden zu Hause.</p>
+        </div>
+        <nav class="footer-col" aria-label="Ratgeber">
+          <p class="footer-title">Ratgeber</p>
+          <a href="/">Wallbox: 11 kW oder 22 kW?</a>
+          <a href="/installation/">Installation &amp; Anmeldung</a>
+          <a href="/mieter/">Mieter &amp; WEG</a>
+          <a href="/installation/#paragraf-14a">§ 14a EnWG</a>
+        </nav>
+        <nav class="footer-col" aria-label="Rechtliches">
+          <p class="footer-title">Rechtliches</p>
+          <a href="/impressum/">Impressum</a>
+          <a href="/datenschutz/">Datenschutz</a>
+        </nav>
       </div>
-      <nav class="footer-nav" aria-label="Rechtliches">
-        <a href="/impressum">Impressum</a>
-        <a href="/datenschutz">Datenschutz</a>
-      </nav>
+      <p class="footer-note">Alle Zahlen und Rechtsangaben sind im Text verlinkt — unter anderem ADAC, Verbraucherzentrale und Bundesnetzagentur. © 2026 heimwallbox.de</p>
     </div>
   </footer>
 </body>
