@@ -1,15 +1,17 @@
 :root {
   --ink: #1b242c;
-  --ink-soft: #4a5560;
+  --ink-soft: #3a434d;
   --paper: #f3efe6;
   --paper-2: #e7e1d4;
   --oxide: #a33b26;
   --oxide-deep: #7a2b1c;
-  --rule: #cfc6b6;
-  --link: #8f3220;
+  --rule: #c8bead;
+  --link: #8a2f1e;
   --link-hover: #5e2014;
-  --rail: 60rem;
-  --gutter: 1.15rem;
+  --rail: 48rem;
+  --measure: 66ch;
+  --gutter: 1.25rem;
+  --tap: 2.75rem;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
   --sans: "Segoe UI", ui-sans-serif, system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
 }
@@ -56,100 +58,119 @@ a:hover {
 .skip {
   position: absolute;
   left: var(--gutter);
-  top: -3rem;
-  z-index: 2;
-  padding: 0.4rem 0.7rem;
+  top: -4rem;
+  z-index: 3;
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  padding: 0 0.85rem;
   background: var(--ink);
   color: var(--paper);
   text-decoration: none;
 }
 
 .skip:focus {
-  top: 0.6rem;
+  top: 0.65rem;
+}
+
+.skip:focus-visible {
+  outline-color: var(--paper);
 }
 
 .wrap {
-  width: min(100%, var(--rail));
+  width: min(100%, calc(var(--rail) + 2 * var(--gutter)));
   margin-inline: auto;
   padding-inline: var(--gutter);
 }
 
 .site-header {
-  border-top: 5px solid var(--ink);
+  border-top: 3px solid var(--oxide);
   border-bottom: 1px solid var(--rule);
+  background: var(--paper);
 }
 
 .header-inner {
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.85rem 1.5rem;
-  padding-block: 1.15rem 1.05rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2rem;
+  padding-block: 0.85rem 0.55rem;
 }
 
 .wordmark {
   display: inline-flex;
   align-items: center;
-  gap: 0.55rem;
+  gap: 0.6rem;
+  min-height: var(--tap);
   color: var(--ink);
+  font-family: var(--sans);
   font-weight: 700;
-  font-size: 1.28rem;
-  letter-spacing: -0.045em;
+  font-size: 1.2rem;
+  letter-spacing: -0.04em;
   line-height: 1;
   text-decoration: none;
   text-transform: lowercase;
 }
 
-.wordmark:hover {
+.wordmark:hover,
+.wordmark:focus-visible {
   color: var(--ink);
 }
 
 .wordmark-mark {
   display: block;
-  width: 1.15rem;
-  height: 1.15rem;
+  width: 1.35rem;
+  height: 1.35rem;
   flex: 0 0 auto;
+}
+
+.wordmark-name {
+  display: block;
 }
 
 .nav-main {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem 1.15rem;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  margin-inline: -0.45rem;
 }
 
 .nav-main a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  padding-inline: 0.45rem;
   color: var(--ink-soft);
-  font-size: 0.95rem;
-  letter-spacing: 0.01em;
+  font-size: 0.98rem;
+  letter-spacing: 0.005em;
   text-decoration: none;
-  padding-block: 0.35rem;
 }
 
 .nav-main a:hover,
 .nav-main a[aria-current="page"] {
   color: var(--ink);
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
 }
 
 .nav-main a[aria-current="page"] {
+  text-decoration: underline;
   text-decoration-color: var(--oxide);
-  text-underline-offset: 0.28em;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.32em;
 }
 
 main {
   flex: 1 0 auto;
-  padding-block: 2.1rem 3.4rem;
+  padding-block: 3rem 3.8rem;
 }
 
 .lede,
 .prose > p:first-of-type {
   font-family: var(--serif);
-  font-size: clamp(1.15rem, 2.2vw, 1.32rem);
-  line-height: 1.45;
-  letter-spacing: -0.01em;
-  max-width: 42rem;
+  font-size: clamp(1.18rem, 2.4vw, 1.38rem);
+  line-height: 1.42;
+  letter-spacing: -0.012em;
+  max-width: var(--measure);
 }
 
 h1,
@@ -157,30 +178,33 @@ h2,
 h3 {
   font-family: var(--serif);
   font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1.18;
+  letter-spacing: -0.022em;
+  line-height: 1.16;
   text-wrap: balance;
 }
 
 h1 {
-  margin: 0 0 1.1rem;
-  font-size: clamp(1.85rem, 4.4vw, 2.7rem);
-  max-width: 28ch;
+  margin: 0 0 1.15rem;
+  font-size: clamp(2.05rem, 6.2vw, 3.15rem);
+  max-width: 18ch;
 }
 
 h2 {
-  margin: 2.4rem 0 0.75rem;
-  font-size: clamp(1.28rem, 2.4vw, 1.55rem);
+  margin: 2.55rem 0 0.8rem;
+  font-size: clamp(1.38rem, 2.8vw, 1.72rem);
 }
 
 h3 {
-  margin: 1.6rem 0 0.5rem;
-  font-size: 1.12rem;
+  margin: 1.7rem 0 0.5rem;
+  font-size: 1.2rem;
 }
 
 .prose p,
-.prose li {
-  max-width: 44rem;
+.prose li,
+.prose dd,
+.figure figcaption,
+caption {
+  max-width: var(--measure);
 }
 
 .prose p {
@@ -198,8 +222,8 @@ h3 {
 }
 
 .kurz {
-  margin: 1.6rem 0 2rem;
-  padding: 0.15rem 0 0.15rem 1rem;
+  margin: 1.7rem 0 2.1rem;
+  padding: 0.1rem 0 0.1rem 1.05rem;
   border-left: 3px solid var(--oxide);
 }
 
@@ -209,17 +233,17 @@ h3 {
 
 blockquote {
   margin: 1.15rem 0;
-  padding: 0.15rem 0 0.15rem 1rem;
+  padding: 0.15rem 0 0.15rem 1.05rem;
   border-left: 3px solid var(--rule);
   color: var(--ink);
   font-family: var(--serif);
-  font-size: 1.12rem;
+  font-size: 1.15rem;
   line-height: 1.45;
 }
 
 .figure {
-  margin: 1.6rem 0 2rem;
-  padding: 1rem 1rem 0.85rem;
+  margin: 1.7rem 0 2.1rem;
+  padding: 1.05rem 1.05rem 0.9rem;
   background: var(--paper-2);
   border: 1px solid var(--rule);
 }
@@ -231,15 +255,14 @@ blockquote {
 }
 
 .figure figcaption {
-  margin-top: 0.7rem;
+  margin-top: 0.8rem;
   color: var(--ink-soft);
-  font-size: 0.88rem;
-  line-height: 1.45;
-  max-width: 44rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
 }
 
 .table-wrap {
-  margin: 1.1rem 0 1.4rem;
+  margin: 1.15rem 0 1.45rem;
   overflow-x: auto;
   border: 1px solid var(--rule);
   background: #faf7f0;
@@ -248,12 +271,12 @@ blockquote {
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.95rem;
+  font-size: 0.97rem;
 }
 
 th,
 td {
-  padding: 0.7rem 0.85rem;
+  padding: 0.75rem 0.9rem;
   text-align: left;
   vertical-align: top;
   border-bottom: 1px solid var(--rule);
@@ -267,7 +290,7 @@ th {
 
 caption {
   caption-side: bottom;
-  padding: 0.55rem 0.85rem;
+  padding: 0.6rem 0.9rem;
   text-align: left;
 }
 
@@ -277,8 +300,8 @@ tr:last-child td {
 }
 
 .quellen {
-  margin-top: 2.6rem;
-  padding-top: 1.2rem;
+  margin-top: 2.8rem;
+  padding-top: 1.3rem;
   border-top: 1px solid var(--rule);
 }
 
@@ -292,7 +315,7 @@ tr:last-child td {
 }
 
 .more {
-  margin-top: 2.2rem;
+  margin-top: 2.3rem;
 }
 
 .legal dt {
@@ -306,20 +329,21 @@ tr:last-child td {
 
 .legal dd {
   margin: 0.2rem 0 0;
-  max-width: 40rem;
 }
 
 .legal address {
   font-style: normal;
   margin: 0 0 1.2rem;
+  max-width: var(--measure);
 }
 
 .site-footer {
   margin-top: auto;
-  padding-block: 1.3rem 1.6rem;
+  padding-block: 0.85rem 1.15rem;
   border-top: 1px solid var(--rule);
+  background: var(--paper-2);
   color: var(--ink-soft);
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 .site-footer p {
@@ -329,18 +353,44 @@ tr:last-child td {
 .footer-inner {
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
-  gap: 0.6rem 1.4rem;
+  gap: 0.25rem 1.5rem;
+}
+
+.publisher {
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  text-transform: lowercase;
+  color: var(--ink);
 }
 
 .footer-nav {
   display: flex;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0 0.15rem;
+  margin-inline: -0.45rem;
 }
 
 .footer-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  padding-inline: 0.45rem;
   color: var(--ink-soft);
+  text-decoration: none;
+}
+
+.footer-nav a:hover,
+.footer-nav a[aria-current="page"] {
+  color: var(--ink);
+}
+
+.footer-nav a[aria-current="page"] {
+  text-decoration: underline;
+  text-decoration-color: var(--oxide);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.32em;
 }
 
 .muted {
@@ -349,11 +399,31 @@ tr:last-child td {
 
 @media (min-width: 720px) {
   body {
-    font-size: 1.085rem;
+    font-size: 1.125rem;
+  }
+
+  .header-inner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem 2rem;
+    padding-block: 0.85rem;
+  }
+
+  .nav-main {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: auto;
+    justify-content: flex-end;
+    margin-inline: 0;
   }
 
   main {
-    padding-block: 2.6rem 4rem;
+    padding-block: 3.25rem 4.4rem;
+  }
+
+  h1 {
+    max-width: 22ch;
   }
 }
 
