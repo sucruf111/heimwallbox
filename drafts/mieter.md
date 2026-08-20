@@ -41,7 +41,7 @@ Sie diktieren weder das Gerät noch, ob Sie oder die Gemeinschaft baut. Die Vers
 
 Der [ADAC](https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) schreibt: Die Gemeinschaft muss in der Regel zulassen. Sie entscheidet, wie. Der Antragsteller zahlt, wenn die Gemeinschaft nichts anderes beschließt. Ein späterer Gemeinschaftsbeschluss für eine gemeinsame Anlage kann eine frühere Einzelgestattung überholen ([ADAC, Urteile](https://www.adac.de/news/urteil-wallbox/)).
 
-Den Anschluss macht ein Elektrofachbetrieb. Die Mitteilung an den Netzbetreiber bleibt nötig, wie auf der Seite [Installation](/installation).
+Den Anschluss macht ein Elektrofachbetrieb. Die Mitteilung an den Netzbetreiber bleibt nötig, wie auf der Seite [Installation](/installation). Was [§ 14a EnWG](/14a) für die steuerbare Wallbox bedeutet, steht auf der eigenen Seite.
 
 ## Was das GEIG nicht ist
 
@@ -70,6 +70,7 @@ Das sind fremde Erhebungen, kein Angebot für Ihr Haus.
 
 - [11 kW oder 22 kW](/)
 - [Anmeldung und Elektriker](/installation)
+- [§ 14a EnWG und die steuerbare Wallbox](/14a)
 
 ## Quellen
 

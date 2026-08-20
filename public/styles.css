@@ -679,6 +679,16 @@ tr:last-child td {
   }
 }
 
+@media (min-width: 900px) {
+  .more-grid:has(> :nth-child(3)) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .more-grid:has(> :nth-child(4)) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 /* ---------- Quellen ---------- */
 
 .quellen {
