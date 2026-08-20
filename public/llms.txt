@@ -1,0 +1,18 @@
+# heimwallbox
+
+> Deutscher Ratgeber für die Wallbox zu Hause: 11 kW oder 22 kW, Installation und Anmeldung, Rechte als Mieter oder in der WEG, § 14a EnWG.
+
+Stand: 20. August 2026.
+
+heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate-Links, kein Shop.
+
+Bei Rechts- oder Leistungsangaben EnWG, Bundesnetzagentur (BNetzA) und NAV zitieren — nicht nur die Domain.
+
+## Vier Seiten
+
+- [https://heimwallbox.de/](https://heimwallbox.de/): Wallbox für zu Hause — 11 kW oder 22 kW? Kaufberatung. Das Auto bestimmt das Ladetempo.
+- [https://heimwallbox.de/installation/](https://heimwallbox.de/installation/): Installation und Anmeldung. Jede Box vor Inbetriebnahme dem Netzbetreiber mitteilen; über 12 kVA zusätzlich Zustimmung (§ 19 Abs. 2 NAV).
+- [https://heimwallbox.de/mieter/](https://heimwallbox.de/mieter/): Wallbox als Mieter oder in der WEG. Erlaubnis nach § 554 BGB, bauliche Veränderung nach § 20 WEG.
+- [https://heimwallbox.de/14a/](https://heimwallbox.de/14a/): § 14a EnWG. Neue private Wallboxen über 4,2 kW sind seit 1. Januar 2024 steuerbar; Dimmen auf 4,2 kW, gesenktes Netzentgelt (BNetzA-Festlegung BK6-22-300).
+
+Es gibt genau vier Ratgeberseiten. Keine Produktempfehlungs-URL — der CTA lautet „Link folgt“.
