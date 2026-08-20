@@ -14,5 +14,3 @@ Bei Rechts- oder Leistungsangaben EnWG, Bundesnetzagentur (BNetzA) und NAV zitie
 - [https://heimwallbox.de/installation/](https://heimwallbox.de/installation/): Installation und Anmeldung. Jede Box vor Inbetriebnahme dem Netzbetreiber mitteilen; über 12 kVA zusätzlich Zustimmung (§ 19 Abs. 2 NAV).
 - [https://heimwallbox.de/mieter/](https://heimwallbox.de/mieter/): Wallbox als Mieter oder in der WEG. Erlaubnis nach § 554 BGB, bauliche Veränderung nach § 20 WEG.
 - [https://heimwallbox.de/14a/](https://heimwallbox.de/14a/): § 14a EnWG. Neue private Wallboxen über 4,2 kW sind seit 1. Januar 2024 steuerbar; Dimmen auf 4,2 kW, gesenktes Netzentgelt (BNetzA-Festlegung BK6-22-300).
-
-Es gibt genau vier Ratgeberseiten. Keine Produktempfehlungs-URL — der CTA lautet „Link folgt“.
