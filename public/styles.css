@@ -300,6 +300,10 @@ tr:last-child td {
   margin-top: 1.15rem;
 }
 
+.legal dt:first-of-type {
+  margin-top: 0;
+}
+
 .legal dd {
   margin: 0.2rem 0 0;
   max-width: 40rem;

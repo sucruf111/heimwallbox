@@ -19,3 +19,5 @@ python3 -m http.server 8080 --directory public
 ```
 
 Dann <http://127.0.0.1:8080/> öffnen.
+
+`404.html` gilt bei Cloudflare Pages. Der lokale Python-Server zeigt seine eigene 404-Seite.
