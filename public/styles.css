@@ -444,6 +444,48 @@ tr:last-child td {
 
 /* ---------- CTA ---------- */
 
+.cta-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem 1.4rem;
+  margin: 1.5rem 0 2.3rem;
+  padding: 1.05rem 1.25rem;
+  background: linear-gradient(135deg, var(--oxide), var(--oxide-deep));
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: var(--shadow-card);
+}
+
+.cta-hero-text {
+  margin: 0;
+  max-width: 44ch;
+}
+
+.cta-hero-text strong {
+  display: block;
+  margin-bottom: 0.1rem;
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+}
+
+.cta-hero-text span {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.95rem;
+}
+
+.cta-soon--light {
+  border-color: rgba(255, 255, 255, 0.55);
+  color: #fff;
+}
+
+.cta-soon--light::before {
+  background: #fff;
+}
+
 .cta {
   margin: 2.4rem 0;
   padding: 1.4rem 1.4rem 1.3rem;
@@ -469,13 +511,14 @@ tr:last-child td {
   align-items: center;
   gap: 0.5rem;
   margin: 0;
-  padding: 0.5rem 1rem;
+  padding: 0.55rem 1.05rem;
   border: 1px dashed color-mix(in srgb, var(--paper) 55%, var(--ink));
   border-radius: 999px;
   color: var(--paper);
   font-size: 0.92rem;
   font-weight: 600;
   letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 .cta-soon::before {
@@ -724,7 +767,8 @@ tr:last-child td {
   .site-footer,
   .skip,
   .more,
-  .cta {
+  .cta,
+  .cta-hero {
     display: none;
   }
 
