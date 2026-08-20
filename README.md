@@ -9,6 +9,7 @@ Die öffentlichen Dateien liegen in `public/`. Später bei Cloudflare Pages als 
 - `/` — 11 kW oder 22 kW
 - `/installation` — Anmeldung und Elektriker
 - `/mieter` — Mieter und WEG
+- `/14a` — § 14a EnWG und die steuerbare Wallbox
 - `/impressum` — Impressum
 - `/datenschutz` — Datenschutz
 

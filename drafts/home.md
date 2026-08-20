@@ -50,7 +50,7 @@ Der ADAC kürzt das oft auf „bis 11 kW anmelden, über 11 kW genehmigen“. Di
 
 Seit der Festlegung der Bundesnetzagentur vom 27. November 2023 darf der Netzbetreiber den Anschluss einer neuen privaten Wallbox nicht mehr mit dem Hinweis auf mögliche lokale Überlastung verweigern oder verzögern. Im Gegenzug darf er steuerbare Verbraucher dimmen. Das steht auf der [BNetzA-Seite zu steuerbaren Verbrauchseinrichtungen](https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html).
 
-Was die Anmeldung im Alltag bedeutet, steht auf der Seite [Installation](/installation).
+Was die Anmeldung im Alltag bedeutet, steht auf der Seite [Installation](/installation). Warum [§ 14a EnWG](/14a) die Wallbox steuerbar macht, steht auf der eigenen Seite.
 
 ## Was die Box sonst können sollte
 
@@ -71,6 +71,7 @@ Im Shop von The Mobility House lagen am 20. August 2026 einzelne 11-kW-Geräte z
 
 - [Anmeldung, Elektriker, grobe Kosten](/installation)
 - [Mieter und Wohnungseigentümer](/mieter)
+- [§ 14a EnWG und die steuerbare Wallbox](/14a)
 
 ## Quellen
 

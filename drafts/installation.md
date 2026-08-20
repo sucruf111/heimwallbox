@@ -87,6 +87,7 @@ Ob eine private heimische Wallbox zusätzlich ins Marktstammdatenregister muss, 
 
 - [11 kW oder 22 kW](/)
 - [Mieter und Wohnungseigentümer](/mieter)
+- [§ 14a EnWG und die steuerbare Wallbox](/14a)
 
 ## Quellen
 
