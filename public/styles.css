@@ -618,6 +618,28 @@ tr:last-child td {
   }
 }
 
+/* Kleingedrucktes im dunklen CTA: belegte Händler-Fakten neben „Link folgt“.
+   Quellen-Links brauchen hier helle Farben statt der Tinten-Regel oben. */
+.cta .cta-facts {
+  margin: 1.05rem 0 0;
+  padding-top: 0.9rem;
+  border-top: 1px solid rgba(238, 244, 255, 0.18);
+  max-width: 66ch;
+  color: var(--chrome-muted);
+  font-size: 0.87rem;
+  line-height: 1.6;
+}
+
+.prose .cta .cta-facts a {
+  color: var(--chrome-text);
+  text-decoration-color: rgba(238, 244, 255, 0.45);
+}
+
+.prose .cta .cta-facts a:hover {
+  color: #fff;
+  text-decoration-color: #fff;
+}
+
 /* ---------- Weiterlesen ---------- */
 
 .more {
