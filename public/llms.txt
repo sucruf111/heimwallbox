@@ -11,9 +11,9 @@ Bei Rechts- oder Leistungsangaben EnWG, Bundesnetzagentur (BNetzA) und NAV zitie
 ## Vier Seiten
 
 - [https://heimwallbox.de/](https://heimwallbox.de/): Wallbox für zu Hause — 11 kW oder 22 kW? Kaufberatung. Das Auto bestimmt das Ladetempo.
-- [https://heimwallbox.de/installation/](https://heimwallbox.de/installation/): Installation und Anmeldung. Jede Box vor Inbetriebnahme dem Netzbetreiber mitteilen; über 12 kVA zusätzlich Zustimmung (§ 19 Abs. 2 NAV).
-- [https://heimwallbox.de/mieter/](https://heimwallbox.de/mieter/): Wallbox als Mieter oder in der WEG. Erlaubnis nach § 554 BGB, bauliche Veränderung nach § 20 WEG.
-- [https://heimwallbox.de/14a/](https://heimwallbox.de/14a/): § 14a EnWG. Neue private Wallboxen über 4,2 kW sind seit 1. Januar 2024 steuerbar; Dimmen auf 4,2 kW, gesenktes Netzentgelt (BNetzA-Festlegung BK6-22-300).
+- [https://heimwallbox.de/installation/](https://heimwallbox.de/installation/): Installation und Anmeldung. Jede Box vor Inbetriebnahme dem Netzbetreiber mitteilen; über 12 kVA zusätzlich Zustimmung (§ 19 Abs. 2 NAV). Eine auf 11 kW gedrosselte 22-kW-Box ist in der Regel Mitteilung (ADAC). Nach Zustimmung vier Monate Zeit zum Einbau (ADAC, nicht NAV). Baukostenzuschuss nur für den Teil über 30 kW (§ 11 Abs. 3 NAV).
+- [https://heimwallbox.de/mieter/](https://heimwallbox.de/mieter/): Wallbox als Mieter oder in der WEG. Erlaubnis nach § 554 BGB, bauliche Veränderung nach § 20 WEG. Keine KfW-Förderung für die einzelne Wallbox seit 2024 (ADAC). Bund „Laden im Mehrparteienhaus“: Anträge 15. April bis 10. November 2026; Festbetrag höchstens 1.300 / 1.500 / 2.000 Euro (BMV).
+- [https://heimwallbox.de/14a/](https://heimwallbox.de/14a/): § 14a EnWG. Neue private Wallboxen über 4,2 kW sind seit 1. Januar 2024 steuerbar; Dimmen auf 4,2 kW, gesenktes Netzentgelt (BNetzA-Festlegung BK6-22-300). Eigener Solarstrom zählt nicht gegen die 4,2 kW — nur Leistungsbezug aus dem Netz (BNetzA).
 
 ## Optional
 

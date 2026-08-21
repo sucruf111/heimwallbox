@@ -159,7 +159,11 @@ Seit dem 1. Januar 2024 muss der Netzbetreiber die Mitteilung auch über seine W
 
 Für die typische 11-kW-Box genügt die Mitteilung, weil die Summe unter 12 kVA bleibt. Für die typische 22-kW-Box kommt die Zustimmung dazu. Der ADAC verkürzt das auf „über 11 kW“ — die Verordnung selbst rechnet in kVA. Ob Sie 22 kW überhaupt brauchen, klärt der Ratgeber Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/).
 
+Eine Ausnahme nennt der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/): Für eine auf 11 kW gedrosselte 22-kW-Wallbox ist in der Regel keine Genehmigung erforderlich — dann reicht die Mitteilung. Das ist die Formulierung des ADAC, kein Automatismus für jeden Netzbetreiber.
+
 Stimmt der Netzbetreiber nicht zu, muss er den Hinderungsgrund nennen, mögliche Abhilfen aufzeigen und sagen, wie lange das dauert. Und seit der Festlegung der Bundesnetzagentur vom 27. November 2023 darf er den Anschluss einer neuen privaten Wallbox nicht mehr mit dem Verweis auf mögliche lokale Überlastung ablehnen oder verzögern (BNetzA (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)).
+
+Hat er zugestimmt, haben Sie nach dem ADAC (https://www.adac.de/fahrzeugwelt/wallbox/installation/) vier Monate Zeit, die Ladestation anzubringen. Diese Frist steht beim ADAC, nicht in der NAV — die Verordnung kennt nur die zwei Monate, in denen sich der Netzbetreiber äußern muss.
 
 ## § 14a EnWG: Ihre Wallbox ist steuerbar — und das senkt das Netzentgelt
 
@@ -201,7 +205,7 @@ Im Mehrfamilienhaus streuen die Preise stärker: In einer ADAC-Stichprobe von 20
 Gut zu wissen:
 
 - Die Anmeldung beim Netzbetreiber bleibt kostenlos.
-- Muss für 22 kW der Hausanschluss verstärkt werden, kann das extra kosten. Liegt der Leistungsbedarf des Grundstücks über 30 kW, fällt ein Baukostenzuschuss an — laut ADAC „im Durchschnitt 500 Euro“.
+- Muss für 22 kW der Hausanschluss verstärkt werden, kann das extra kosten. Nach § 11 Abs. 3 NAV (https://www.gesetze-im-internet.de/nav/__11.html) darf ein Baukostenzuschuss nur für den Teil der Leistungsanforderung erhoben werden, der 30 kW übersteigt. Abs. 1 begrenzt ihn auf höchstens 50 vom Hundert der notwendigen, dem Versorgungsbereich zuordenbaren Kosten für Erstellung oder Verstärkung der örtlichen Verteileranlagen. Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/) nennt dafür „im Durchschnitt 500 Euro“.
 - Eine Versicherungs- oder Wartungspflicht für private Wallboxen nennt der ADAC nicht.
 - Der Bereitschaftsverbrauch der vom ADAC getesteten Boxen kostet 1 bis 15 Euro im Jahr (gerechnet mit 30 Cent je Kilowattstunde).
 - Zur Einordnung der Stromkosten: 20 kWh auf 100 km bei 30 Cent/kWh sind 6 Euro auf 100 km (ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)).
@@ -234,15 +238,25 @@ Der ADAC nennt für den Einbau im Einfamilienhaus 500 bis 3.000 Euro (Stand 2026
 
 Nein. Die Bundesnetzagentur beantwortet das in ihren FAQ (https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/FAQ/artikel.html) wörtlich mit „Nein“ — private Ladepunkte in Garage, Carport oder Einfahrt sind in der Regel nicht öffentlich zugänglich. Erst wenn die Allgemeinheit den Ladepunkt nutzen kann, wird er meldepflichtig; dann gilt eine Frist von zwei Wochen.
 
+### Reicht die Mitteilung, wenn die 22-kW-Wallbox auf 11 kW gedrosselt ist?
+
+In der Regel ja. Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/) schreibt: Für eine auf 11 kW gedrosselte 22-kW-Wallbox ist in der Regel keine Genehmigung erforderlich — dann genügt die Mitteilung. Das ist die Formulierung des ADAC, kein Automatismus für jeden Netzbetreiber.
+
+### Wie lange habe ich nach der Zustimmung Zeit für die Installation?
+
+Nach Zusage des Netzbetreibers haben Sie laut ADAC (https://www.adac.de/fahrzeugwelt/wallbox/installation/) vier Monate Zeit, die Ladestation anzubringen. Diese Frist nennt der ADAC, nicht die NAV. Die Verordnung kennt nur die zwei Monate, in denen sich der Netzbetreiber äußern muss.
+
 ## Quellen für diese Seite
 
 - § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
+- § 11 NAV (https://www.gesetze-im-internet.de/nav/__11.html)
 - § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html)
 - Bundesnetzagentur, steuerbare Verbrauchseinrichtungen (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)
 - Bundesnetzagentur, FAQ Ladesäulenregister (https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/FAQ/artikel.html)
 - ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
 - ADAC, Wallbox installieren (https://www.adac.de/fahrzeugwelt/wallbox/installation/)
-- Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557)
+- ADAC, Wallbox anmelden (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/)
+- Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557/)
 - Verbraucherzentrale, Smart Meter (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275)
 - Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/)
 
@@ -319,6 +333,20 @@ Solche Zahlen geben eine Orientierung — was Ihr Haus kostet, zeigt erst ein An
 
 Und welches Gerät darf es sein? Für die meisten reicht eine 11-kW-Box — der Vergleich Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/) hilft bei der Wahl.
 
+## Was der Bund 2026 noch fördert — und was nicht
+
+Eine KfW-Förderung für die einzelne Wallbox im Eigenheim gibt es nicht mehr. Die Zuschüsse aus dem Programm „Solarstrom für Elektroautos“ nimmt die KfW seit 2024 nicht mehr entgegen, so der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/foerderung-wallbox/).
+
+Neu ist das Bundesprogramm „Laden im Mehrparteienhaus“. Anträge nimmt das Bundesministerium für Verkehr (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html) vom 15. April bis 10. November 2026 entgegen — für Wohnungsunternehmen mit großem Bestand im wettbewerblichen Verfahren bis zum 15. Oktober 2026. Das Volumen beträgt bis zu 500 Millionen Euro. Das Portal liegt unter laden-im-mehrparteienhaus.de (https://www.laden-im-mehrparteienhaus.de/).
+
+Der Festbetrag je zu elektrifizierendem Stellplatz liegt laut BMV bei höchstens 1.300 Euro ohne Wallbox, höchstens 1.500 Euro mit Wallbox (höchstens 22 kW) und höchstens 2.000 Euro, wenn der Ladepunkt bidirektionales Laden unterstützt.
+
+Mindestumfang nach dem ADAC: mindestens 20 Prozent der wohnbezogenen Stellplätze müssen vorverkabelt werden — und nie weniger als sechs Stellplätze. Wohngebäude mit weniger als sechs Stellplätzen sind danach „voraussichtlich nicht förderfähig“.
+
+Antragsberechtigt sind nach dem BMV Wohnungseigentümergemeinschaften, kleine und mittlere Unternehmen sowie Privateigentümer von vermietetem Wohneigentum, außerdem Wohnungsbaugesellschaften und Immobilienunternehmen mit größerem Wohnungsbestand.
+
+Der Strom an den Ladepunkten muss aus erneuerbaren Energien kommen — über einen Ökostromvertrag oder die eigene Photovoltaikanlage, so der ADAC.
+
 ## Häufige Fragen von Mietern und Eigentümern
 
 ### Darf der Vermieter mir die Wallbox verbieten?
@@ -341,6 +369,14 @@ Nein. Das GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html) verp
 
 Die Preise streuen stark: In einer ADAC-Stichprobe von 2022 verlangten zwölf Betriebe für einen Tiefgaragenplatz zwischen 1.045 und 5.200 Euro; The Charging Project ermittelte 2024 Grundinstallationen zwischen 251 und 4.487 Euro je Stellplatz. Was Ihre Garage kostet, zeigt erst ein Angebot.
 
+### Gibt es noch KfW-Förderung für die einzelne Wallbox?
+
+Nein. Eine KfW-Förderung für private Wallboxen gibt es laut ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/foerderung-wallbox/) seit 2024 nicht mehr. Die Zuschüsse aus dem Programm „Solarstrom für Elektroautos“ können nicht mehr beantragt werden.
+
+### Was fördert der Bund 2026 im Mehrparteienhaus?
+
+Das Bundesprogramm „Laden im Mehrparteienhaus“ nimmt Anträge vom 15. April bis 10. November 2026 entgegen (BMV (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)); für Wohnungsunternehmen mit großem Bestand im Wettbewerb bis zum 15. Oktober 2026. Der Festbetrag je Stellplatz liegt bei höchstens 1.300 Euro ohne Wallbox, 1.500 Euro mit Wallbox (höchstens 22 kW) und 2.000 Euro bei bidirektionalem Laden. Mindestens 20 Prozent der wohnbezogenen Stellplätze und mindestens sechs Stellplätze müssen vorverkabelt werden.
+
 ## Quellen für diese Seite
 
 - § 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)
@@ -350,6 +386,9 @@ Die Preise streuen stark: In einer ADAC-Stichprobe von 2022 verlangten zwölf Be
 - ADAC, Tipps für Wohnungseigentümer und Mieter (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/)
 - ADAC, Urteile Wallbox (https://www.adac.de/news/urteil-wallbox/)
 - ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
+- ADAC, Wallbox-Förderung 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/foerderung-wallbox/)
+- BMV, Förderung Laden im Mehrparteienhaus (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)
+- Portal Laden im Mehrparteienhaus (https://www.laden-im-mehrparteienhaus.de/)
 - Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557)
 
 ---
@@ -385,9 +424,9 @@ Wer unter § 14a EnWG fällt — nach der Festlegung der Bundesnetzagentur.
 
 Ab dem 1. Januar 2024 muss die Box dimmbar sein. Der Netzbetreiber darf nur dimmen, solange die konkrete Gefahr für das örtliche Netz andauert. Die Mindestleistung 4,2 kW bleibt. Die Bundesnetzagentur schreibt: Im Notfall lassen sich in zwei Stunden etwa 50 Kilometer nachladen. Sie rechnet mit geringen Einschränkungen (BNetzA-Verbraucherseite (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)).
 
-Solange das Netz noch nicht gut genug gemessen ist, darf er vorbeugend dimmen: höchstens zwei Stunden am Tag, höchstens 24 Monate ab dem ersten solchen Eingriff in diesem Netzbereich.
+Eigenen Solarstrom rechnet die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) nicht auf die 4,2 kW an: Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Herd, Licht und Kühlschrank steuert er weiter nicht.
 
-Herd, Licht und Kühlschrank steuert er nicht.
+Solange das Netz noch nicht gut genug gemessen ist, darf er vorbeugend dimmen: höchstens zwei Stunden am Tag, höchstens 24 Monate ab dem ersten solchen Eingriff in diesem Netzbereich.
 
 Er darf den Anschluss einer neuen privaten Wallbox oder Wärmepumpe nicht mehr mit dem Hinweis auf mögliche lokale Überlastung verweigern oder verzögern. Das ist die Gegenleistung der Festlegung vom 27. November 2023.
 
@@ -438,6 +477,10 @@ Das reduzierte Netzentgelt erscheint auf der Stromrechnung des Lieferanten. Modu
 ### Brauche ich für § 14a einen eigenen Zähler?
 
 Nein, seit dem 1. Januar 2024 nicht mehr — die Box muss nur steuerbar sein. Der Auftrag an Messstellenbetreiber oder Netzbetreiber für die Steuerungstechnik genügt. Für die laufenden Kosten gelten gesetzliche Obergrenzen: höchstens 50 Euro im Jahr für das intelligente Messsystem und höchstens 50 Euro im Jahr für die Steuerbox.
+
+### Zählt mein eigener Solarstrom gegen die 4,2 kW?
+
+Nein. Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) rechnet selbst produzierten Strom nicht auf die 4,2 kW an. Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Der Haushaltsstrom bleibt unberührt.
 
 ## Quellen für diese Seite
 
