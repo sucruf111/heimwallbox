@@ -30,7 +30,7 @@
     "description": "Neue private Wallboxen über 4,2 kW sind seit dem 1. Januar 2024 steuerbar. Der Netzbetreiber darf auf 4,2 kW dimmen, nicht darunter. Dafür sinkt das Netzentgelt.",
     "inLanguage": "de",
     "datePublished": "2026-08-20",
-    "dateModified": "2026-08-21",
+    "dateModified": "2026-08-22",
     "author": { "@type": "Organization", "name": "heimwallbox", "url": "https://heimwallbox.de/" },
     "publisher": { "@type": "Organization", "name": "heimwallbox", "url": "https://heimwallbox.de/", "logo": "https://heimwallbox.de/icon-512.png" }
   }
@@ -88,6 +88,38 @@
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Nein. Die Bundesnetzagentur rechnet selbst produzierten Strom nicht auf die 4,2 kW an. Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Der Haushaltsstrom bleibt unberührt."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Gilt die Mindestleistung von 4,2 kW pro Gerät oder für alle zusammen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Das hängt von der Art der Ansteuerung ab. Bei Direktansteuerung beträgt die Mindestleistung grundsätzlich 4,2 kW pro steuerbarer Verbrauchseinrichtung. Bei Steuerung über ein Energie-Management-System (EMS) ermittelt der Netzbetreiber die Mindestleistung für alle steuerbaren Verbrauchseinrichtungen gesamthaft, unter Berücksichtigung eines vorgegebenen Gleichzeitigkeitsfaktors. Den Sollwert verteilen Sie über das EMS auf Ihre Geräte — selbst produzierter Strom kann dabei berücksichtigt werden."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Muss die Wallbox stufenlos dimmbar sein?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nein. Lässt sich die Anlage vollständig ausschalten, reicht das nach der Bundesnetzagentur aus — eine stufenweise oder stufenlose Ansteuerung ist nicht erforderlich. Ob hochwertige Technik oder eine kostengünstige An/Aus-Regelung zum Einsatz kommt, entscheidet der Betreiber selbst."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Kann ich zwischen Modul 1 und Modul 2 wechseln?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ja. Die Bundesnetzagentur schreibt: „Ein Wechsel zwischen Modul 1 und 2 ist möglich, allerdings nicht rückwirkend.“ Modul 3 gibt es weiter nur zusammen mit Modul 1, nicht mit Modul 2."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Wo bestelle ich Modul 3 — beim Lieferanten oder beim Netzbetreiber?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Die Festlegung lässt beide Wege zu. In der Praxis laufen die Prozesse der Marktkommunikation nach der Bundesnetzagentur aber zügiger, wenn die Bestellung beim Lieferanten erfolgt — der erste Schritt des von ihr beschriebenen Bestellwegs lautet: Der Kunde bestellt Modul 3 bei seinem Lieferanten. Auch der BDEW empfiehlt in seiner Anwendungshilfe (Stand 22. Juli 2026), Modul 3 über den Lieferanten zu bestellen und nicht direkt beim Netzbetreiber."
         }
       }
     ]
@@ -175,6 +207,7 @@
     <h2>Was Sie abgeben</h2>
     <p>Ab dem 1. Januar 2024 muss die Box dimmbar sein. Der Netzbetreiber darf nur dimmen, solange die konkrete Gefahr für das örtliche Netz andauert. Die Mindestleistung 4,2 kW bleibt. Die Bundesnetzagentur schreibt: Im Notfall lassen sich in zwei Stunden etwa 50 Kilometer nachladen. Sie rechnet mit geringen Einschränkungen (<a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">BNetzA-Verbraucherseite</a>).</p>
     <p>Eigenen Solarstrom rechnet die <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> nicht auf die 4,2 kW an: Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Herd, Licht und Kühlschrank steuert er weiter nicht.</p>
+    <p>Haben Sie mehrere steuerbare Geräte, kommt es auf die Art der Ansteuerung an. Die <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> unterscheidet: Bei Direktansteuerung beträgt die Mindestleistung grundsätzlich 4,2 kW pro steuerbarer Verbrauchseinrichtung. Bei Steuerung über ein Energie-Management-System (EMS) ermittelt der Netzbetreiber die Mindestleistung für alle steuerbaren Verbrauchseinrichtungen gesamthaft, unter Berücksichtigung eines vorgegebenen Gleichzeitigkeitsfaktors. Den Sollwert verteilen Sie über das EMS auf Ihre Geräte — selbst produzierter Strom kann dabei berücksichtigt werden.</p>
     <p>Solange das Netz noch nicht gut genug gemessen ist, darf er vorbeugend dimmen: höchstens zwei Stunden am Tag, höchstens 24 Monate ab dem ersten solchen Eingriff in diesem Netzbereich.</p>
     <p>Er darf den Anschluss einer neuen privaten Wallbox oder Wärmepumpe nicht mehr mit dem Hinweis auf mögliche lokale Überlastung verweigern oder verzögern. Das ist die Gegenleistung der Festlegung vom 27. November 2023.</p>
 
@@ -186,10 +219,13 @@
       <li><strong>Modul 2</strong> senkt den Netzentgelt-Arbeitspreis in der Niederspannung auf 40 Prozent. Das ist nicht der Arbeitspreis Ihres Stromvertrags. Dafür brauchen Sie einen eigenen Zähler. Auf diesem Zähler darf der Netzbetreiber keinen Grundpreis verlangen.</li>
       <li><strong>Modul 3</strong> gibt es seit April 2025, nur zusammen mit Modul 1, nicht mit Modul 2. Drei Preisstufen (HT, NT, ST). Voraussetzung: intelligentes Messsystem, keine registrierende Leistungsmessung.</li>
     </ul>
+    <p>Später umentscheiden ist erlaubt: „Ein Wechsel zwischen Modul 1 und 2 ist möglich, allerdings nicht rückwirkend“, schreibt die <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a>.</p>
+    <p>Modul 3 bestellen Sie in der Praxis am besten bei Ihrem Stromlieferanten. Die Festlegung lässt zwar beide Wege zu — Lieferant oder Netzbetreiber —, aber die Prozesse der Marktkommunikation laufen nach der Bundesnetzagentur zügiger, wenn die Bestellung beim Lieferanten erfolgt; der erste Schritt des von ihr beschriebenen Bestellwegs lautet: Der Kunde bestellt Modul 3 bei seinem Lieferanten. Auch der <a href="https://www.bdew.de/service/anwendungshilfe-fuer-die-umsetzung-von-modul-3-der-festlegung-bk8-22010-a-nach-14a-enwg/">BDEW</a> empfiehlt in seiner Anwendungshilfe (Stand 22. Juli 2026), Modul 3 über den Lieferanten zu bestellen und nicht direkt beim Netzbetreiber.</p>
 
     <h2>Was Sie tun müssen</h2>
     <p>Die Inbetriebnahme der Box teilen Sie dem Netzbetreiber vorher mit. Das verlangt <a href="https://www.gesetze-im-internet.de/nav/__19.html">§ 19 Abs. 2 NAV</a> sowieso, unabhängig von § 14a.</p>
     <p>Die Box braucht Mess- und Steuerungstechnik, in der Regel ein intelligentes Messsystem und eine Steuerbox. Ein Auftrag an den Messstellenbetreiber oder den Netzbetreiber reicht. Solange die Hardware fehlt, gilt das nicht als Verstoß gegen die Steuerbarkeit. Die Reduzierung des Netzentgelts beginnt, wenn der Netzbetreiber beauftragt ist.</p>
+    <p>Fein dosieren muss die Anlage das Dimmen dabei nicht können: Lässt sie sich vollständig ausschalten, reicht das nach der <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> aus — eine stufenweise oder stufenlose Ansteuerung ist nicht erforderlich, und ob hochwertige Technik oder eine kostengünstige An/Aus-Regelung zum Einsatz kommt, entscheidet der Betreiber selbst.</p>
     <p>Einen eigenen Zähler verlangt die Regelung seit dem 1. Januar 2024 nicht mehr.</p>
     <p>Wie die Mitteilung an den Netzbetreiber im Alltag abläuft, steht auf der Seite <a href="/installation/">Wallbox installieren und anmelden</a>.</p>
 
@@ -222,6 +258,22 @@
       <article class="faq-item">
         <h3>Zählt mein eigener Solarstrom gegen die 4,2 kW?</h3>
         <p>Nein. Die <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> rechnet selbst produzierten Strom nicht auf die 4,2 kW an. Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Der Haushaltsstrom bleibt unberührt.</p>
+      </article>
+      <article class="faq-item">
+        <h3>Gilt die Mindestleistung von 4,2 kW pro Gerät oder für alle zusammen?</h3>
+        <p>Das hängt von der Art der Ansteuerung ab. Bei Direktansteuerung beträgt die Mindestleistung grundsätzlich 4,2 kW pro steuerbarer Verbrauchseinrichtung. Bei Steuerung über ein Energie-Management-System (EMS) ermittelt der Netzbetreiber die Mindestleistung für alle steuerbaren Verbrauchseinrichtungen gesamthaft, unter Berücksichtigung eines vorgegebenen Gleichzeitigkeitsfaktors (<a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a>). Den Sollwert verteilen Sie über das EMS auf Ihre Geräte — selbst produzierter Strom kann dabei berücksichtigt werden.</p>
+      </article>
+      <article class="faq-item">
+        <h3>Muss die Wallbox stufenlos dimmbar sein?</h3>
+        <p>Nein. Lässt sich die Anlage vollständig ausschalten, reicht das nach der <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> aus — eine stufenweise oder stufenlose Ansteuerung ist nicht erforderlich. Ob hochwertige Technik oder eine kostengünstige An/Aus-Regelung zum Einsatz kommt, entscheidet der Betreiber selbst.</p>
+      </article>
+      <article class="faq-item">
+        <h3>Kann ich zwischen Modul 1 und Modul 2 wechseln?</h3>
+        <p>Ja. Die <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> schreibt: „Ein Wechsel zwischen Modul 1 und 2 ist möglich, allerdings nicht rückwirkend.“ Modul 3 gibt es weiter nur zusammen mit Modul 1, nicht mit Modul 2.</p>
+      </article>
+      <article class="faq-item">
+        <h3>Wo bestelle ich Modul 3 — beim Lieferanten oder beim Netzbetreiber?</h3>
+        <p>Die Festlegung lässt beide Wege zu. In der Praxis laufen die Prozesse der Marktkommunikation nach der <a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur</a> aber zügiger, wenn die Bestellung beim Lieferanten erfolgt — der erste Schritt des von ihr beschriebenen Bestellwegs lautet: Der Kunde bestellt Modul 3 bei seinem Lieferanten. Auch der <a href="https://www.bdew.de/service/anwendungshilfe-fuer-die-umsetzung-von-modul-3-der-festlegung-bk8-22010-a-nach-14a-enwg/">BDEW</a> empfiehlt in seiner Anwendungshilfe (Stand 22. Juli 2026), Modul 3 über den Lieferanten zu bestellen und nicht direkt beim Netzbetreiber.</p>
       </article>
     </div>
 
@@ -257,6 +309,7 @@
           <li><a href="https://www.gesetze-im-internet.de/enwg_2005/__14a.html">§ 14a EnWG</a></li>
           <li><a href="https://www.bundesnetzagentur.de/DE/Beschlusskammern/1_GZ/BK6-GZ/2022/BK6-22-300/BK6-22-300_Beschluss.html">Bundesnetzagentur, Beschluss BK6-22-300</a></li>
           <li><a href="https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html">Bundesnetzagentur, steuerbare Verbrauchseinrichtungen</a></li>
+          <li><a href="https://www.bdew.de/service/anwendungshilfe-fuer-die-umsetzung-von-modul-3-der-festlegung-bk8-22010-a-nach-14a-enwg/">BDEW, Anwendungshilfe für die Umsetzung von Modul 3</a></li>
           <li><a href="https://www.gesetze-im-internet.de/nav/__19.html">§ 19 NAV</a></li>
           <li><a href="https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/">ADAC, Wallbox-Kosten</a></li>
           <li><a href="https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275">Verbraucherzentrale, Smart Meter</a></li>

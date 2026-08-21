@@ -1,6 +1,6 @@
 # heimwallbox.de — Volltext für Sprachmodelle
 
-Stand: 21. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
+Stand: 22. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
 
 heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate- oder Tracking-Links, kein Shop. Der Shop-CTA auf allen vier URLs heißt weiter „Link folgt“ (je zwei Mal) — der Empfehlungslink ist nicht live.
 
@@ -328,6 +328,8 @@ Eine Grenze zieht § 20 Abs. 4 WEG (https://www.gesetze-im-internet.de/woeigg/__
 
 Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) fasst die Praxis so zusammen: Die Gemeinschaft muss in der Regel zulassen, entscheidet aber, wie gebaut wird. Der Antragsteller zahlt, wenn die Gemeinschaft nichts anderes beschließt. Und ein späterer Gemeinschaftsbeschluss für eine gemeinsame Ladeanlage kann eine frühere Einzelgestattung überholen (ADAC, Urteile (https://www.adac.de/news/urteil-wallbox/)).
 
+Die Kostenregel dahinter steht in § 21 WEG (https://www.gesetze-im-internet.de/woeigg/__21.html): Die Kosten einer baulichen Veränderung, die einem Wohnungseigentümer gestattet oder die auf sein Verlangen nach § 20 Abs. 2 durchgeführt wurde, trägt dieser Eigentümer — dafür gebühren ihm allein die Nutzungen (Abs. 1). Alle Eigentümer zahlen nach dem Verhältnis ihrer Miteigentumsanteile nur dann, wenn die Veränderung mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen wurde — es sei denn, sie ist mit unverhältnismäßigen Kosten verbunden — oder wenn sich die Kosten innerhalb eines angemessenen Zeitraums amortisieren (Abs. 2). Wie lang „angemessen“ ist, beziffert das Gesetz nicht. Die Gemeinschaft kann eine abweichende Verteilung beschließen; einem Eigentümer, der nach diesen Regeln keine Kosten trägt, darf sie dabei keine auferlegen (Abs. 5).
+
 Für den Einbau gilt das Gleiche wie im Einfamilienhaus: Den Anschluss macht ein Elektrofachbetrieb, die Mitteilung an den Netzbetreiber bleibt nötig. Alle Details zur Anmeldung stehen auf der Seite Wallbox installieren und anmelden (https://heimwallbox.de/installation/). Was § 14a EnWG (https://heimwallbox.de/14a/) für die steuerbare Wallbox und das gesenkte Netzentgelt bedeutet, steht auf der eigenen Seite.
 
 ## Was das GEIG regelt — und was nicht
@@ -381,6 +383,10 @@ Das Gesetz lässt das offen. ADAC und Verbraucherzentrale konkretisieren: in der
 
 Jeder Wohnungseigentümer kann angemessene bauliche Veränderungen verlangen, die dem Laden elektrisch betriebener Fahrzeuge dienen (§ 20 Abs. 2 Nr. 2 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html)). Die Versammlung entscheidet über das Wie der Durchführung, nicht über das Ob. Grenze: Veränderungen, die die Anlage grundlegend umgestalten oder einen Eigentümer unbillig benachteiligen, sind ausgeschlossen (§ 20 Abs. 4 WEG).
 
+### Wer trägt in der WEG die Kosten der Wallbox?
+
+Nach § 21 Abs. 1 WEG (https://www.gesetze-im-internet.de/woeigg/__21.html) trägt der Wohnungseigentümer die Kosten der baulichen Veränderung, die ihm gestattet oder die auf sein Verlangen nach § 20 Abs. 2 durchgeführt wurde — dafür gebühren ihm allein die Nutzungen. Alle Eigentümer zahlen nach Miteigentumsanteilen nur, wenn die Veränderung mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen wurde — es sei denn, sie ist mit unverhältnismäßigen Kosten verbunden — oder wenn sich die Kosten innerhalb eines angemessenen Zeitraums amortisieren (§ 21 Abs. 2 WEG). Wie lang „angemessen“ ist, beziffert das Gesetz nicht. Eine abweichende Verteilung kann die Gemeinschaft beschließen; einem Eigentümer, der nach diesen Regeln keine Kosten trägt, darf sie dabei keine auferlegen (§ 21 Abs. 5 WEG).
+
 ### Gibt das GEIG Mietern einen Anspruch auf eine Wallbox?
 
 Nein. Das GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html) verpflichtet Bauherren und Eigentümer bei bestimmten Neubauten und größeren Renovierungen zu Leitungsinfrastruktur — dem einzelnen Mieter verschafft es keine fertige Wallbox. Ihr persönlicher Anspruch bleibt § 554 BGB oder § 20 WEG.
@@ -407,6 +413,7 @@ Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House G
 
 - § 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)
 - § 20 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html)
+- § 21 WEG (https://www.gesetze-im-internet.de/woeigg/__21.html)
 - GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html)
 - § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
 - ADAC, Tipps für Wohnungseigentümer und Mieter (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/)
@@ -455,6 +462,8 @@ Ab dem 1. Januar 2024 muss die Box dimmbar sein. Der Netzbetreiber darf nur dimm
 
 Eigenen Solarstrom rechnet die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) nicht auf die 4,2 kW an: Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Herd, Licht und Kühlschrank steuert er weiter nicht.
 
+Haben Sie mehrere steuerbare Geräte, kommt es auf die Art der Ansteuerung an. Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) unterscheidet: Bei Direktansteuerung beträgt die Mindestleistung grundsätzlich 4,2 kW pro steuerbarer Verbrauchseinrichtung. Bei Steuerung über ein Energie-Management-System (EMS) ermittelt der Netzbetreiber die Mindestleistung für alle steuerbaren Verbrauchseinrichtungen gesamthaft, unter Berücksichtigung eines vorgegebenen Gleichzeitigkeitsfaktors. Den Sollwert verteilen Sie über das EMS auf Ihre Geräte — selbst produzierter Strom kann dabei berücksichtigt werden.
+
 Solange das Netz noch nicht gut genug gemessen ist, darf er vorbeugend dimmen: höchstens zwei Stunden am Tag, höchstens 24 Monate ab dem ersten solchen Eingriff in diesem Netzbereich.
 
 Er darf den Anschluss einer neuen privaten Wallbox oder Wärmepumpe nicht mehr mit dem Hinweis auf mögliche lokale Überlastung verweigern oder verzögern. Das ist die Gegenleistung der Festlegung vom 27. November 2023.
@@ -469,11 +478,17 @@ Die Beträge zum Netzentgelt: Stand 2023.
 - Modul 2 senkt den Netzentgelt-Arbeitspreis in der Niederspannung auf 40 Prozent. Das ist nicht der Arbeitspreis Ihres Stromvertrags. Dafür brauchen Sie einen eigenen Zähler. Auf diesem Zähler darf der Netzbetreiber keinen Grundpreis verlangen.
 - Modul 3 gibt es seit April 2025, nur zusammen mit Modul 1, nicht mit Modul 2. Drei Preisstufen (HT, NT, ST). Voraussetzung: intelligentes Messsystem, keine registrierende Leistungsmessung.
 
+Später umentscheiden ist erlaubt: „Ein Wechsel zwischen Modul 1 und 2 ist möglich, allerdings nicht rückwirkend“, schreibt die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html).
+
+Modul 3 bestellen Sie in der Praxis am besten bei Ihrem Stromlieferanten. Die Festlegung lässt zwar beide Wege zu — Lieferant oder Netzbetreiber —, aber die Prozesse der Marktkommunikation laufen nach der Bundesnetzagentur zügiger, wenn die Bestellung beim Lieferanten erfolgt; der erste Schritt des von ihr beschriebenen Bestellwegs lautet: Der Kunde bestellt Modul 3 bei seinem Lieferanten. Auch der BDEW (https://www.bdew.de/service/anwendungshilfe-fuer-die-umsetzung-von-modul-3-der-festlegung-bk8-22010-a-nach-14a-enwg/) empfiehlt in seiner Anwendungshilfe (Stand 22. Juli 2026), Modul 3 über den Lieferanten zu bestellen und nicht direkt beim Netzbetreiber.
+
 ## Was Sie tun müssen
 
 Die Inbetriebnahme der Box teilen Sie dem Netzbetreiber vorher mit. Das verlangt § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) sowieso, unabhängig von § 14a.
 
 Die Box braucht Mess- und Steuerungstechnik, in der Regel ein intelligentes Messsystem und eine Steuerbox. Ein Auftrag an den Messstellenbetreiber oder den Netzbetreiber reicht. Solange die Hardware fehlt, gilt das nicht als Verstoß gegen die Steuerbarkeit. Die Reduzierung des Netzentgelts beginnt, wenn der Netzbetreiber beauftragt ist.
+
+Fein dosieren muss die Anlage das Dimmen dabei nicht können: Lässt sie sich vollständig ausschalten, reicht das nach der Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) aus — eine stufenweise oder stufenlose Ansteuerung ist nicht erforderlich, und ob hochwertige Technik oder eine kostengünstige An/Aus-Regelung zum Einsatz kommt, entscheidet der Betreiber selbst.
 
 Einen eigenen Zähler verlangt die Regelung seit dem 1. Januar 2024 nicht mehr.
 
@@ -511,6 +526,22 @@ Nein, seit dem 1. Januar 2024 nicht mehr — die Box muss nur steuerbar sein. De
 
 Nein. Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) rechnet selbst produzierten Strom nicht auf die 4,2 kW an. Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Der Haushaltsstrom bleibt unberührt.
 
+### Gilt die Mindestleistung von 4,2 kW pro Gerät oder für alle zusammen?
+
+Das hängt von der Art der Ansteuerung ab. Bei Direktansteuerung beträgt die Mindestleistung grundsätzlich 4,2 kW pro steuerbarer Verbrauchseinrichtung. Bei Steuerung über ein Energie-Management-System (EMS) ermittelt der Netzbetreiber die Mindestleistung für alle steuerbaren Verbrauchseinrichtungen gesamthaft, unter Berücksichtigung eines vorgegebenen Gleichzeitigkeitsfaktors (Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)). Den Sollwert verteilen Sie über das EMS auf Ihre Geräte — selbst produzierter Strom kann dabei berücksichtigt werden.
+
+### Muss die Wallbox stufenlos dimmbar sein?
+
+Nein. Lässt sich die Anlage vollständig ausschalten, reicht das nach der Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) aus — eine stufenweise oder stufenlose Ansteuerung ist nicht erforderlich. Ob hochwertige Technik oder eine kostengünstige An/Aus-Regelung zum Einsatz kommt, entscheidet der Betreiber selbst.
+
+### Kann ich zwischen Modul 1 und Modul 2 wechseln?
+
+Ja. Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) schreibt: „Ein Wechsel zwischen Modul 1 und 2 ist möglich, allerdings nicht rückwirkend.“ Modul 3 gibt es weiter nur zusammen mit Modul 1, nicht mit Modul 2.
+
+### Wo bestelle ich Modul 3 — beim Lieferanten oder beim Netzbetreiber?
+
+Die Festlegung lässt beide Wege zu. In der Praxis laufen die Prozesse der Marktkommunikation nach der Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) aber zügiger, wenn die Bestellung beim Lieferanten erfolgt — der erste Schritt des von ihr beschriebenen Bestellwegs lautet: Der Kunde bestellt Modul 3 bei seinem Lieferanten. Auch der BDEW (https://www.bdew.de/service/anwendungshilfe-fuer-die-umsetzung-von-modul-3-der-festlegung-bk8-22010-a-nach-14a-enwg/) empfiehlt in seiner Anwendungshilfe (Stand 22. Juli 2026), Modul 3 über den Lieferanten zu bestellen und nicht direkt beim Netzbetreiber.
+
 ## Neue Boxen über 4,2 kW müssen steuerbar sein. Prüfen Sie das Datenblatt.
 
 Der CTA lautet „Link folgt“ — der Shop-Link ist nicht live, keine Tracking-URL.
@@ -522,6 +553,7 @@ Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House G
 - § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html)
 - Bundesnetzagentur, Beschluss BK6-22-300 (https://www.bundesnetzagentur.de/DE/Beschlusskammern/1_GZ/BK6-GZ/2022/BK6-22-300/BK6-22-300_Beschluss.html)
 - Bundesnetzagentur, steuerbare Verbrauchseinrichtungen (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)
+- BDEW, Anwendungshilfe für die Umsetzung von Modul 3 (https://www.bdew.de/service/anwendungshilfe-fuer-die-umsetzung-von-modul-3-der-festlegung-bk8-22010-a-nach-14a-enwg/)
 - § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
 - ADAC, Wallbox-Kosten (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
 - Verbraucherzentrale, Smart Meter (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275)
