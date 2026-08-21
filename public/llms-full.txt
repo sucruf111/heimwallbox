@@ -2,9 +2,11 @@
 
 Stand: 21. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
 
-heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate-Links, kein Shop.
+heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate- oder Tracking-Links, kein Shop. Der Shop-CTA auf allen vier URLs heißt weiter „Link folgt“ (je zwei Mal) — der Empfehlungslink ist nicht live.
 
-Die folgenden Abschnitte sind der Volltext der vier Ratgeberseiten (Überschriften und Fließtext, ohne Navigation, Fußzeile und Empfehlungsboxen).
+Zur Einordnung steht auf jeder der vier Seiten ein belegter Fakten-Absatz: Hinter mobilityhouse.com steht die The Mobility House GmbH, München — Handelsregister Amtsgericht München, HRB 195965, USt-IdNr. DE 280 860 814. Der Shop führt 11-kW- und 22-kW-Wallboxen, darunter aus dem eigenen Hardware-Portfolio die ChargeLine Home Wallbox mit 11 kW und die ChargeLine Business Wallbox mit 22 kW — beide mit 3 Jahren Garantie. Der Versand-Link auf der Startseite bleibt die blanke Shop-URL (https://www.mobilityhouse.com/de_de/lieferung-versand).
+
+Die folgenden Abschnitte sind der Volltext der vier Ratgeberseiten (Überschriften und Fließtext, ohne Navigation und Fußzeile). Der belegte Fakten-Absatz aus dem unteren CTA-Kasten steht hier mit; der CTA selbst bleibt „Link folgt“.
 
 ---
 
@@ -89,7 +91,7 @@ Gerätepreise ohne Einbau nach ADAC, Stand 2026. Im Ratgeber 2026 heißt es auß
 - Premium: 1.000 bis 2.000 Euro
 - Bidirektional: 2.000 bis 3.000 Euro
 
-Zur Einordnung ein Blick in den Handel: Im Shop von The Mobility House lagen am 20. August 2026 einzelne 11-kW-Geräte zwischen 379 und 1.010 Euro, 22-kW-Beispiele bei 1.089 und 1.199 Euro — jeweils inklusive 19 % MwSt. Der Versand nach Deutschland kostet 5,90 Euro (Lieferung & Versand).
+Zur Einordnung ein Blick in den Handel: Im Shop von The Mobility House lagen am 20. August 2026 einzelne 11-kW-Geräte zwischen 379 und 1.010 Euro, 22-kW-Beispiele bei 1.089 und 1.199 Euro — jeweils inklusive 19 % MwSt. Der Versand nach Deutschland kostet 5,90 Euro (Lieferung & Versand (https://www.mobilityhouse.com/de_de/lieferung-versand)).
 
 Dazu kommt der Einbau durch den Elektriker — die Spannen dafür stehen auf der Seite Wallbox-Installation (https://heimwallbox.de/installation/).
 
@@ -115,6 +117,12 @@ Nein. Doppelt so schnell wie an einer 11-kW-Box lädt nur ein Auto, das 22 kW au
 
 Der ADAC nennt für das Gerät etwa 300 bis 2.000 Euro (Stand 2026): einfache Boxen 300 bis 600 Euro, Mittelklasse 600 bis 1.000 Euro, Premium 1.000 bis 2.000 Euro, bidirektionale Geräte 2.000 bis 3.000 Euro. Die Spannen für den Einbau stehen auf der Seite Wallbox-Installation (https://heimwallbox.de/installation/).
 
+## Unsere Wallbox-Empfehlungen
+
+Der CTA lautet „Link folgt“ — der Shop-Link ist nicht live, keine Tracking-URL.
+
+Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House GmbH, München — Handelsregister Amtsgericht München, HRB 195965, USt-IdNr. DE 280 860 814 (Impressum (https://www.mobilityhouse.com/de_de/impressum)). Der Shop führt 11-kW- und 22-kW-Wallboxen (Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)), darunter aus dem eigenen Hardware-Portfolio die ChargeLine Home Wallbox mit 11 kW und die ChargeLine Business Wallbox mit 22 kW — beide mit 3 Jahren Garantie (ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)).
+
 ## Quellen für diese Seite
 
 - § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
@@ -124,7 +132,10 @@ Der ADAC nennt für das Gerät etwa 300 bis 2.000 Euro (Stand 2026): einfache Bo
 - ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
 - Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) (Stand 24.07.2025)
 - Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/) (23.02.2022)
-- The Mobility House, Versand
+- The Mobility House, Versand (https://www.mobilityhouse.com/de_de/lieferung-versand)
+- The Mobility House, Impressum (https://www.mobilityhouse.com/de_de/impressum)
+- The Mobility House, Wallbox-Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)
+- The Mobility House, ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)
 
 ---
 
@@ -246,6 +257,12 @@ In der Regel ja. Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilita
 
 Nach Zusage des Netzbetreibers haben Sie laut ADAC (https://www.adac.de/fahrzeugwelt/wallbox/installation/) vier Monate Zeit, die Ladestation anzubringen. Diese Frist nennt der ADAC, nicht die NAV. Die Verordnung kennt nur die zwei Monate, in denen sich der Netzbetreiber äußern muss.
 
+## Unsere Wallbox-Empfehlungen
+
+Der CTA lautet „Link folgt“ — der Shop-Link ist nicht live, keine Tracking-URL.
+
+Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House GmbH, München — Handelsregister Amtsgericht München, HRB 195965, USt-IdNr. DE 280 860 814 (Impressum (https://www.mobilityhouse.com/de_de/impressum)). Der Shop führt 11-kW- und 22-kW-Wallboxen (Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)), darunter aus dem eigenen Hardware-Portfolio die ChargeLine Home Wallbox mit 11 kW und die ChargeLine Business Wallbox mit 22 kW — beide mit 3 Jahren Garantie (ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)).
+
 ## Quellen für diese Seite
 
 - § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
@@ -259,6 +276,9 @@ Nach Zusage des Netzbetreibers haben Sie laut ADAC (https://www.adac.de/fahrzeug
 - Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557/)
 - Verbraucherzentrale, Smart Meter (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275)
 - Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/)
+- The Mobility House, Impressum (https://www.mobilityhouse.com/de_de/impressum)
+- The Mobility House, Wallbox-Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)
+- The Mobility House, ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)
 
 ---
 
@@ -377,6 +397,12 @@ Nein. Eine KfW-Förderung für private Wallboxen gibt es laut ADAC (https://www.
 
 Das Bundesprogramm „Laden im Mehrparteienhaus“ nimmt Anträge vom 15. April bis 10. November 2026 entgegen (BMV (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)); für Wohnungsunternehmen mit großem Bestand im Wettbewerb bis zum 15. Oktober 2026. Der Festbetrag je Stellplatz liegt bei höchstens 1.300 Euro ohne Wallbox, 1.500 Euro mit Wallbox (höchstens 22 kW) und 2.000 Euro bei bidirektionalem Laden. Mindestens 20 Prozent der wohnbezogenen Stellplätze und mindestens sechs Stellplätze müssen vorverkabelt werden.
 
+## Unsere Wallbox-Empfehlungen
+
+Der CTA lautet „Link folgt“ — der Shop-Link ist nicht live, keine Tracking-URL.
+
+Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House GmbH, München — Handelsregister Amtsgericht München, HRB 195965, USt-IdNr. DE 280 860 814 (Impressum (https://www.mobilityhouse.com/de_de/impressum)). Der Shop führt 11-kW- und 22-kW-Wallboxen (Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)), darunter aus dem eigenen Hardware-Portfolio die ChargeLine Home Wallbox mit 11 kW und die ChargeLine Business Wallbox mit 22 kW — beide mit 3 Jahren Garantie (ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)).
+
 ## Quellen für diese Seite
 
 - § 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)
@@ -390,6 +416,9 @@ Das Bundesprogramm „Laden im Mehrparteienhaus“ nimmt Anträge vom 15. April 
 - BMV, Förderung Laden im Mehrparteienhaus (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)
 - Portal Laden im Mehrparteienhaus (https://www.laden-im-mehrparteienhaus.de/)
 - Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557)
+- The Mobility House, Impressum (https://www.mobilityhouse.com/de_de/impressum)
+- The Mobility House, Wallbox-Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)
+- The Mobility House, ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)
 
 ---
 
@@ -482,6 +511,12 @@ Nein, seit dem 1. Januar 2024 nicht mehr — die Box muss nur steuerbar sein. De
 
 Nein. Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) rechnet selbst produzierten Strom nicht auf die 4,2 kW an. Es zählt nur der Leistungsbezug aus dem Netz. Eine Wallbox darf deshalb mehr ziehen, wenn der zusätzliche Strom aus der eigenen Photovoltaikanlage kommt. Der Haushaltsstrom bleibt unberührt.
 
+## Neue Boxen über 4,2 kW müssen steuerbar sein. Prüfen Sie das Datenblatt.
+
+Der CTA lautet „Link folgt“ — der Shop-Link ist nicht live, keine Tracking-URL.
+
+Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House GmbH, München — Handelsregister Amtsgericht München, HRB 195965, USt-IdNr. DE 280 860 814 (Impressum (https://www.mobilityhouse.com/de_de/impressum)). Der Shop führt 11-kW- und 22-kW-Wallboxen (Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)), darunter aus dem eigenen Hardware-Portfolio die ChargeLine Home Wallbox mit 11 kW und die ChargeLine Business Wallbox mit 22 kW — beide mit 3 Jahren Garantie (ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)).
+
 ## Quellen für diese Seite
 
 - § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html)
@@ -490,3 +525,6 @@ Nein. Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie
 - § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
 - ADAC, Wallbox-Kosten (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
 - Verbraucherzentrale, Smart Meter (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275)
+- The Mobility House, Impressum (https://www.mobilityhouse.com/de_de/impressum)
+- The Mobility House, Wallbox-Sortiment (https://www.mobilityhouse.com/de_de/ladestationen/wallboxen.html)
+- The Mobility House, ChargeLine (https://www.mobilityhouse.com/de_de/chargeline)
