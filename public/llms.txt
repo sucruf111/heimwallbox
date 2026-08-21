@@ -4,9 +4,9 @@
 
 Stand: 21. August 2026.
 
-heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate-Links, kein Shop.
+heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate- oder Tracking-Links, kein Shop. Der Shop-CTA auf allen vier URLs heißt weiter „Link folgt“ (je zwei Mal) — der Empfehlungslink ist nicht live.
 
-Bei Rechts- oder Leistungsangaben EnWG, Bundesnetzagentur (BNetzA) und NAV zitieren — nicht nur die Domain.
+Zur Einordnung steht auf jeder der vier Seiten ein belegter Fakten-Absatz: Hinter mobilityhouse.com steht die The Mobility House GmbH, München — Handelsregister Amtsgericht München, HRB 195965, USt-IdNr. DE 280 860 814. Der Shop führt 11-kW- und 22-kW-Wallboxen, darunter aus dem eigenen Hardware-Portfolio die ChargeLine Home Wallbox mit 11 kW und die ChargeLine Business Wallbox mit 22 kW — beide mit 3 Jahren Garantie. Der Versand-Link auf der Startseite bleibt die blanke Shop-URL (https://www.mobilityhouse.com/de_de/lieferung-versand).
 
 ## Vier Seiten
 
