@@ -1,0 +1,449 @@
+# heimwallbox.de — Volltext für Sprachmodelle
+
+Stand: 21. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
+
+heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate-Links, kein Shop.
+
+Die folgenden Abschnitte sind der Volltext der vier Ratgeberseiten (Überschriften und Fließtext, ohne Navigation, Fußzeile und Empfehlungsboxen).
+
+---
+
+https://heimwallbox.de/
+
+Wallbox-Ratgeber · Laden zu Hause
+
+# Wallbox für zu Hause: 11 kW oder 22 kW?
+
+Für die meisten Haushalte ist eine 11-kW-Wallbox die richtige Wahl. Denn wie schnell Ihr E-Auto lädt, bestimmt nicht die Wallbox allein: Entscheidend ist, wie viel Wechselstrom das Ladegerät in Ihrem Auto annehmen kann.
+
+## Die Kurzantwort
+
+Für die meisten
+
+### 11 kW
+
+Lädt dreiphasig mit 16 Ampere — für den Alltag genügt das, über Nacht ist die Batterie voll. Beim Netzbetreiber reicht in der Regel eine Mitteilung.
+
+Für Vielfahrer
+
+### 22 kW
+
+Lädt mit 32 Ampere und braucht die Zustimmung des Netzbetreibers. Lohnt sich nur, wenn Ihr Auto 22 kW Wechselstrom auch wirklich annimmt.
+
+Die Ampere-Werte nennt der ADAC (https://www.adac.de/fahrzeugwelt/wallbox/installation/). Die Zustimmungspflicht greift, wenn die Summe der Bemessungsleistung über 12 Kilovoltampere liegt — so steht es in § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html). Eine typische 11-kW-Box liegt darunter, eine typische 22-kW-Box darüber.
+
+## Was hinter 11 kW und 22 kW steckt
+
+Beide Wallboxen laden mit Drehstrom bei 400 Volt, sofern der Hausanschluss das hergibt. Der Unterschied liegt im Strom je Phase: 16 Ampere bei 11 kW, 32 Ampere bei 22 kW (ADAC, Installation (https://www.adac.de/fahrzeugwelt/wallbox/installation/)).
+
+Welche Leitung und welche Absicherung Ihr Haus dafür braucht, lässt sich nicht pauschal sagen — das rechnet der Elektriker vor Ort aus.
+
+11 kW lädt dreiphasig mit 16 A, 22 kW mit 32 A. Ob der Netzbetreiber zustimmen muss, hängt an der 12-kVA-Grenze aus § 19 Abs. 2 NAV — nicht an der Kurzformel „11 kW“.
+
+## Ihr Auto bestimmt das Ladetempo
+
+Der ADAC (https://www.adac.de/fahrzeugwelt/wallbox/ratgeber/) bringt es auf den Punkt: Ein Elektroauto lädt nur so schnell, wie das Bordladegerät im Fahrzeug zulässt. Deshalb ist 11 kW die am häufigsten installierte Lösung im privaten Bereich. Eine 22-kW-Box lohnt sich vor allem für Vielfahrer, deren Auto 22 kW Wechselstrom tatsächlich verarbeiten kann.
+
+Ein paar Beispiele aus dem ADAC-Ratgeber:
+
+- Plug-in-Hybride laden meist mit höchstens 3,7 kW — mehr können sie in der Regel nicht.
+- Auch manche reinen Stromer nehmen nicht mehr an, der ADAC nennt hier den Nissan Leaf.
+- Ein VW ID.3 braucht an der Haushaltssteckdose fast 16 Stunden — an einer 11-kW-Wallbox nur etwa 5 Stunden.
+- Der Renault Zoe gehört zu den Autos, die 22 kW Wechselstrom laden können.
+
+Die Verbraucherzentrale (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) nennt dieselben Zusammenhänge in Zahlen: Zu Hause lädt ein E-Auto mit 1,4 bis 22 kW, eine typische Ladung dauert 2 bis 6 Stunden — je nach Fahrzeug. Wichtig: Eine 22-kW-Wallbox lädt nur dann doppelt so schnell wie eine 11-kW-Box, wenn das Auto 22 kW annimmt. Und die Angabe „11 kW“ gilt dreiphasig — ein Auto mit einphasigem Bordladegerät holt aus derselben Box höchstens 3,7 kW bei 16 A.
+
+Stiftung Warentest bestätigt das: Viele E-Autos erlauben maximal 11 Kilowatt, manche 22 (test.de (https://www.test.de/Wallboxen-im-Test-5427770-5850662/), Stand 23. Februar 2022).
+
+## Wann sich 22 kW wirklich lohnen
+
+Nur wenn beides zusammenkommt: Ihr Auto kann 22 kW Wechselstrom laden, und Sie müssen regelmäßig tagsüber schnell nachladen, statt über Nacht. Der ADAC nennt dafür vor allem Vielfahrer.
+
+Für Plug-in-Hybride mit 3,7 kW und für einphasig ladende Autos bringt die teurere Box dagegen keine kürzere Ladezeit.
+
+## Anmeldung beim Netzbetreiber — die Regeln
+
+§ 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html): Jede Wallbox müssen Sie dem Netzbetreiber vor der Inbetriebnahme mitteilen. Liegt die Summen-Bemessungsleistung über 12 kVA je elektrische Anlage, braucht es zusätzlich seine Zustimmung — dafür hat er zwei Monate Zeit. Lehnt er ab, muss er den Hinderungsgrund nennen, mögliche Abhilfen aufzeigen und sagen, wie lange das dauert.
+
+Oft liest man die Kurzformel „bis 11 kW anmelden, über 11 kW genehmigen lassen“ — so auch beim ADAC. Die Verordnung selbst rechnet aber in Kilovoltampere: Maßgeblich ist die 12-kVA-Grenze.
+
+Gut zu wissen: Seit der Festlegung der Bundesnetzagentur vom 27. November 2023 darf der Netzbetreiber eine neue private Wallbox nicht mehr mit dem Hinweis auf mögliche lokale Überlastung ablehnen oder verzögern. Im Gegenzug darf er steuerbare Verbraucher zeitweise dimmen (BNetzA, steuerbare Verbrauchseinrichtungen (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)).
+
+Wie die Anmeldung praktisch abläuft, steht auf der Seite Wallbox installieren und anmelden (https://heimwallbox.de/installation/). Warum § 14a EnWG (https://heimwallbox.de/14a/) die Wallbox steuerbar macht und das Netzentgelt senkt, steht auf der eigenen Seite.
+
+## Wallbox kaufen: Darauf kommt es an
+
+- Stecker: Typ 2 ist der übliche Standard in Europa.
+- PV-Überschussladen: Haben Sie eine Solaranlage, kann eine passende Box bevorzugt den Strom vom eigenen Dach laden. Ob Ihr Wechselrichter und die Box zusammenarbeiten, prüft der Elektriker.
+- Abrechnung: Nur wenn Sie Ladestrom an Dritte weiterberechnen, gelten besondere Messregeln. Für das eigene Auto in der eigenen Garage reicht die Box ohne Abrechnungstechnik.
+
+Sie wohnen zur Miete oder in der Eigentumswohnung? Dann klären Sie vor dem Kauf die Erlaubnis — welche Rechte Ihnen § 554 BGB und § 20 WEG geben, steht auf der Seite Wallbox als Mieter oder in der WEG (https://heimwallbox.de/mieter/).
+
+## Was eine Wallbox kostet
+
+Der ADAC (Kosten, 2026) (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/) nennt für das Gerät ohne Einbau etwa 300 bis 2.000 Euro:
+
+Gerätepreise ohne Einbau nach ADAC, Stand 2026. Im Ratgeber 2026 heißt es außerdem „meist 200 bis über 1.000 Euro“.
+- Einfache Wallbox: 300 bis 600 Euro
+- Mittelklasse: 600 bis 1.000 Euro
+- Premium: 1.000 bis 2.000 Euro
+- Bidirektional: 2.000 bis 3.000 Euro
+
+Zur Einordnung ein Blick in den Handel: Im Shop von The Mobility House lagen am 20. August 2026 einzelne 11-kW-Geräte zwischen 379 und 1.010 Euro, 22-kW-Beispiele bei 1.089 und 1.199 Euro — jeweils inklusive 19 % MwSt. Der Versand nach Deutschland kostet 5,90 Euro (Lieferung & Versand).
+
+Dazu kommt der Einbau durch den Elektriker — die Spannen dafür stehen auf der Seite Wallbox-Installation (https://heimwallbox.de/installation/).
+
+## Häufige Fragen zur Wahl der Wallbox
+
+### Reicht eine 11-kW-Wallbox für zu Hause?
+
+Für die meisten Haushalte ja. Sie lädt dreiphasig mit 16 Ampere, über Nacht wird die Batterie voll — und schneller, als das Bordladegerät des Autos zulässt, lädt ohnehin keine Wallbox. 11 kW ist deshalb die am häufigsten installierte Lösung im privaten Bereich.
+
+### Wann lohnt sich eine 22-kW-Wallbox?
+
+Nur wenn beides zusammenkommt: Ihr Auto kann 22 kW Wechselstrom laden — der ADAC nennt als Beispiel den Renault Zoe — und Sie müssen regelmäßig tagsüber schnell nachladen statt über Nacht. Für Plug-in-Hybride mit 3,7 kW und einphasig ladende Autos bringt die teurere Box keine kürzere Ladezeit.
+
+### Braucht eine 22-kW-Wallbox die Zustimmung des Netzbetreibers?
+
+In der Regel ja. Mitteilen müssen Sie jede Wallbox vor der Inbetriebnahme; liegt die Summen-Bemessungsleistung über 12 Kilovoltampere, braucht es zusätzlich die Zustimmung des Netzbetreibers — er hat dafür zwei Monate Zeit (§ 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html)). Eine typische 22-kW-Box liegt über dieser Grenze, eine typische 11-kW-Box darunter.
+
+### Lädt eine 22-kW-Wallbox jedes Auto doppelt so schnell?
+
+Nein. Doppelt so schnell wie an einer 11-kW-Box lädt nur ein Auto, das 22 kW auch annimmt. Viele E-Autos erlauben höchstens 11 kW — und ein Auto mit einphasigem Bordladegerät holt aus derselben Box höchstens 3,7 kW.
+
+### Was kostet eine Wallbox ohne Einbau?
+
+Der ADAC nennt für das Gerät etwa 300 bis 2.000 Euro (Stand 2026): einfache Boxen 300 bis 600 Euro, Mittelklasse 600 bis 1.000 Euro, Premium 1.000 bis 2.000 Euro, bidirektionale Geräte 2.000 bis 3.000 Euro. Die Spannen für den Einbau stehen auf der Seite Wallbox-Installation (https://heimwallbox.de/installation/).
+
+## Quellen für diese Seite
+
+- § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
+- Bundesnetzagentur, steuerbare Verbrauchseinrichtungen (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)
+- ADAC, Wallbox installieren (https://www.adac.de/fahrzeugwelt/wallbox/installation/)
+- ADAC, Wallbox-Ratgeber 2026 (https://www.adac.de/fahrzeugwelt/wallbox/ratgeber/)
+- ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
+- Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) (Stand 24.07.2025)
+- Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/) (23.02.2022)
+- The Mobility House, Versand
+
+---
+
+https://heimwallbox.de/installation/
+
+Wallbox-Ratgeber · Anmeldung & Einbau
+
+# Wallbox installieren und anmelden: So läuft es ab
+
+Eine Wallbox dürfen Sie nicht selbst anschließen, und der Netzbetreiber muss sie kennen, bevor sie ans Netz geht. Beides ist weniger kompliziert, als es klingt — hier steht, was auf Sie zukommt.
+
+## Die Kurzantwort
+
+Nach § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) müssen Sie jede Ladeeinrichtung dem Netzbetreiber vor der Inbetriebnahme mitteilen — unabhängig von der Leistung. Liegt die Summen-Bemessungsleistung über 12 Kilovoltampere je elektrische Anlage, braucht es vorher zusätzlich seine Zustimmung. Er muss sich innerhalb von zwei Monaten äußern.
+
+Die Anmeldung selbst ist nach dem ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/) kostenlos. Den Anschluss übernimmt ein eingetragener Elektrofachbetrieb — selbst anschließen dürfen Sie die Box nicht. Darin sind sich ADAC, Verbraucherzentrale und Stiftung Warentest einig.
+
+Und eine gute Nachricht vorweg: Eine private Wallbox in Garage, Carport oder Einfahrt müssen Sie nicht bei der Bundesnetzagentur eintragen. Die Behörde beantwortet das in ihren FAQ (https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/FAQ/artikel.html) wörtlich:
+
+„Muss ich meinen privaten Ladepunkt bei der Bundesnetzagentur melden? Nein.“
+
+## So kommt die Wallbox an die Wand
+
+1. Elektrofachbetrieb beauftragen. Er prüft Hausanschluss und Zählerschrank und plant Leitung, FI-Schutzschalter und Absicherung für Ihr Haus.
+2. Netzbetreiber informieren. Verantwortlich ist, wer den Anschluss nutzt — in der Praxis reicht der Elektriker die Mitteilung ein. Bei mehr als 12 kVA wartet er die Zustimmung ab.
+3. Installation. Der Elektriker zieht die Leitung und schließt die Box an.
+4. Fertigmeldung. Der Betrieb meldet die Anlage fertig — danach dürfen Sie laden.
+
+## Die Anmeldung beim Netzbetreiber im Detail
+
+Seit dem 1. Januar 2024 muss der Netzbetreiber die Mitteilung auch über seine Website annehmen (§ 19 Abs. 4 NAV (https://www.gesetze-im-internet.de/nav/__19.html)). Wie die Formulare heißen, ist von Netzbetreiber zu Netzbetreiber unterschiedlich — schauen Sie auf dessen Website oder fragen Sie Ihren Elektriker.
+
+Für die typische 11-kW-Box genügt die Mitteilung, weil die Summe unter 12 kVA bleibt. Für die typische 22-kW-Box kommt die Zustimmung dazu. Der ADAC verkürzt das auf „über 11 kW“ — die Verordnung selbst rechnet in kVA. Ob Sie 22 kW überhaupt brauchen, klärt der Ratgeber Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/).
+
+Stimmt der Netzbetreiber nicht zu, muss er den Hinderungsgrund nennen, mögliche Abhilfen aufzeigen und sagen, wie lange das dauert. Und seit der Festlegung der Bundesnetzagentur vom 27. November 2023 darf er den Anschluss einer neuen privaten Wallbox nicht mehr mit dem Verweis auf mögliche lokale Überlastung ablehnen oder verzögern (BNetzA (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)).
+
+## § 14a EnWG: Ihre Wallbox ist steuerbar — und das senkt das Netzentgelt
+
+Neue private Wallboxen mit mehr als 4,2 kW Netzanschlussleistung, die seit dem 1. Januar 2024 in Betrieb gehen, gelten als steuerbare Verbrauchseinrichtungen. Das folgt aus § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html) und der Festlegung BK6-22-300 der Bundesnetzagentur.
+
+Was das praktisch heißt: Bei einer konkreten Überlastung darf der Netzbetreiber die Ladeleistung vorübergehend auf 4,2 kW absenken — nie darunter, und Ihr Haushaltsstrom bleibt unberührt. Die Bundesnetzagentur rechnet mit geringen Einschränkungen: Selbst gedimmt lassen sich in zwei Stunden etwa 50 Kilometer Reichweite nachladen (BNetzA-Verbraucherseite (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)). Präventives Dimmen, solange das Netz noch nicht ausreichend gemessen ist, ist auf höchstens zwei Stunden am Tag begrenzt — und auf höchstens 24 Monate ab dem ersten Eingriff im jeweiligen Netzbereich.
+
+Im Gegenzug sinkt Ihr Netzentgelt:
+
+- Modul 1 ist eine Pauschale — die Bundesnetzagentur nennt 110 bis 190 Euro im Jahr (Stand 2023). Bei rund 2.500 kWh Autostrom kann das zusätzliche Netzentgelt so um 50 bis 95 Prozent sinken. Wer nichts wählt, bekommt automatisch Modul 1.
+- Modul 2 senkt den Arbeitspreis in der Niederspannung auf 40 Prozent, braucht aber einen eigenen Zähler.
+- Modul 3 gibt es seit April 2025 nur in Kombination mit Modul 1, mit intelligentem Messsystem.
+
+Einen eigenen Zähler verlangt die Regelung seit dem 1. Januar 2024 nicht mehr — die Box muss nur steuerbar sein. Der Auftrag an Messstellenbetreiber oder Netzbetreiber für die Steuerungstechnik genügt. Für die laufenden Kosten gelten gesetzliche Obergrenzen, die ADAC und Verbraucherzentrale nennen: höchstens 50 Euro im Jahr für das intelligente Messsystem und höchstens 50 Euro im Jahr für die Steuerbox.
+
+Wer betroffen ist, welche Module es gibt und was Zähler und Steuerbox höchstens kosten, steht ausführlich auf der Seite § 14a EnWG und die steuerbare Wallbox (https://heimwallbox.de/14a/).
+
+## Was die Installation kostet
+
+Die verlässlichsten Spannen kommen vom ADAC (Kosten, 2026) (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/):
+
+Kostenspannen nach ADAC, Stand 2026.
+- Gerät ohne Einbau: etwa 300 bis 2.000 Euro
+- Einbau im Einfamilienhaus: 500 bis 3.000 Euro
+- Kurzer Weg zu Carport oder Garage: oft 500 bis 1.500 Euro
+- Lange Leitungen, Durchbrüche, Erdreich, neuer Zählerschrank: etwa 2.000 bis 3.000 Euro
+- Einfacher Fall (unter 5 m, moderner Zählerkasten): 500 bis 800 Euro
+- Mittlerer Fall (10 bis 20 m, ein bis zwei Durchbrüche): 800 bis 1.500 Euro
+- Aufwendiger Fall (neuer Kasten, Erdreich, über 30 m): 1.500 bis über 3.000 Euro
+- Stele (falls keine Wand vorhanden): 400 bis 1.000 Euro
+- 11 kW im Einfamilienhaus, Box plus Einbau: grob 1.200 bis 3.500 Euro
+
+Der ADAC (https://www.adac.de/fahrzeugwelt/wallbox/installation/) nennt außerdem Beispielpakete seines Partners e-mobilio für das Einfamilienhaus ohne Erdarbeiten: vorbereitete Zuleitung etwa 500 Euro, bis 10 m Leitung plus zwei Durchbrüche etwa 1.250 Euro, bis 20 m plus drei Durchbrüche etwa 2.200 Euro.
+
+Stiftung Warentest zitiert den Elektrohandwerksverband ZVEH mit 1.000 bis 2.500 Euro inklusive Kauf, Lieferung und Fachbetrieb — allerdings mit Stand vom 23. Februar 2022 (test.de (https://www.test.de/Wallboxen-im-Test-5427770-5850662/)).
+
+Im Mehrfamilienhaus streuen die Preise stärker: In einer ADAC-Stichprobe von 2022 verlangten 12 Betriebe für einen Tiefgaragenplatz zwischen 1.045 und 5.200 Euro. Was Sie dort als Mieter oder Wohnungseigentümer verlangen können (https://heimwallbox.de/mieter/), steht auf der eigenen Seite.
+
+Gut zu wissen:
+
+- Die Anmeldung beim Netzbetreiber bleibt kostenlos.
+- Muss für 22 kW der Hausanschluss verstärkt werden, kann das extra kosten. Liegt der Leistungsbedarf des Grundstücks über 30 kW, fällt ein Baukostenzuschuss an — laut ADAC „im Durchschnitt 500 Euro“.
+- Eine Versicherungs- oder Wartungspflicht für private Wallboxen nennt der ADAC nicht.
+- Der Bereitschaftsverbrauch der vom ADAC getesteten Boxen kostet 1 bis 15 Euro im Jahr (gerechnet mit 30 Cent je Kilowattstunde).
+- Zur Einordnung der Stromkosten: 20 kWh auf 100 km bei 30 Cent/kWh sind 6 Euro auf 100 km (ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)).
+
+## Wann eine Wallbox ins Ladesäulenregister muss — und wann nicht
+
+Private Ladepunkte in Carport, Garage, Einfahrt oder auf dem eigenen Stellplatz sind in der Regel nicht öffentlich zugänglich und gehören deshalb nicht ins Ladesäulenregister (https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/FAQ/artikel.html) der Bundesnetzagentur. Das gilt auch, wenn Sie Nachbarn oder Freunden die Box unentgeltlich überlassen.
+
+Öffentlich wird ein Ladepunkt erst, wenn die Allgemeinheit ihn nutzen kann — das kann auch auf Privatgrund passieren. Ein geschlossener Nutzerkreis wie Beschäftigte, Mieter oder Hotelgäste zählt nicht dazu. Wird ein privater Punkt später öffentlich, gilt eine Meldefrist von zwei Wochen.
+
+## Häufige Fragen zu Anmeldung und Einbau
+
+### Muss ich meine Wallbox beim Netzbetreiber anmelden?
+
+Ja. Nach § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) müssen Sie jede Ladeeinrichtung dem Netzbetreiber vor der Inbetriebnahme mitteilen — unabhängig von der Leistung. Die Anmeldung ist kostenlos, und in der Praxis reicht der Elektriker die Mitteilung ein. Seit dem 1. Januar 2024 muss der Netzbetreiber sie auch über seine Website annehmen.
+
+### Wann genügt die Mitteilung, wann braucht es die Zustimmung?
+
+Für die typische 11-kW-Box genügt die Mitteilung, weil die Summen-Bemessungsleistung unter 12 kVA bleibt. Darüber — etwa bei der typischen 22-kW-Box — braucht es vorher zusätzlich die Zustimmung des Netzbetreibers; er muss sich innerhalb von zwei Monaten äußern und darf eine neue private Wallbox nicht mit dem Verweis auf mögliche lokale Überlastung ablehnen oder verzögern.
+
+### Darf ich die Wallbox selbst anschließen?
+
+Nein. Den Anschluss übernimmt ein eingetragener Elektrofachbetrieb — darin sind sich ADAC, Verbraucherzentrale und Stiftung Warentest einig. Erst nach der Fertigmeldung durch den Betrieb dürfen Sie laden.
+
+### Was kostet der Einbau einer Wallbox?
+
+Der ADAC nennt für den Einbau im Einfamilienhaus 500 bis 3.000 Euro (Stand 2026): einfacher Fall 500 bis 800 Euro, mittlerer Fall 800 bis 1.500 Euro, aufwendiger Fall 1.500 bis über 3.000 Euro. Für eine 11-kW-Box samt Einbau grob 1.200 bis 3.500 Euro. Die Anmeldung beim Netzbetreiber bleibt kostenlos.
+
+### Muss die private Wallbox ins Ladesäulenregister der Bundesnetzagentur?
+
+Nein. Die Bundesnetzagentur beantwortet das in ihren FAQ (https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/FAQ/artikel.html) wörtlich mit „Nein“ — private Ladepunkte in Garage, Carport oder Einfahrt sind in der Regel nicht öffentlich zugänglich. Erst wenn die Allgemeinheit den Ladepunkt nutzen kann, wird er meldepflichtig; dann gilt eine Frist von zwei Wochen.
+
+## Quellen für diese Seite
+
+- § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
+- § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html)
+- Bundesnetzagentur, steuerbare Verbrauchseinrichtungen (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)
+- Bundesnetzagentur, FAQ Ladesäulenregister (https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/FAQ/artikel.html)
+- ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
+- ADAC, Wallbox installieren (https://www.adac.de/fahrzeugwelt/wallbox/installation/)
+- Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557)
+- Verbraucherzentrale, Smart Meter (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275)
+- Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/)
+
+---
+
+https://heimwallbox.de/mieter/
+
+Wallbox-Ratgeber · Miete & Eigentum
+
+# Wallbox als Mieter oder in der WEG: Diese Rechte haben Sie
+
+Einfach bohren dürfen Sie nicht — aber Sie haben mehr Rechte, als viele denken. Mieter können die Erlaubnis für eine Wallbox verlangen, Wohnungseigentümer eine angemessene bauliche Veränderung. Das Gesetz trennt dabei das Ob vom Wie.
+
+## Die Kurzantwort
+
+Als Mieter
+
+### § 554 BGB
+
+Sie können verlangen, dass der Vermieter bauliche Änderungen erlaubt, die dem Laden von E-Fahrzeugen dienen (§ 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)). Der Anspruch entfällt nur, wenn die Änderung dem Vermieter auch unter Würdigung Ihrer Interessen nicht zuzumuten ist.
+
+Als Wohnungseigentümer
+
+### § 20 WEG
+
+Sie können angemessene bauliche Veränderungen verlangen, die dem Laden dienen (§ 20 Abs. 2 Nr. 2 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html)). Über die Durchführung entscheidet die Gemeinschaft — das Wie liegt bei der Versammlung, nicht das Ob.
+
+Das GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html) verpflichtet dagegen nur Bauherren und Eigentümer bei bestimmten Neubauten und größeren Renovierungen zu Leitungsinfrastruktur — einen eigenen Anspruch auf eine fertige Wallbox gibt es Mietern nicht.
+
+## Was Mieter verlangen können
+
+§ 554 Abs. 1 BGB (https://www.gesetze-im-internet.de/bgb/__554.html) nennt das Laden elektrisch betriebener Fahrzeuge ausdrücklich. Eine Vereinbarung, die das zu Ihrem Nachteil ändert, ist unwirksam (Absatz 2). Sie dürfen dem Vermieter eine besondere Sicherheit anbieten; § 551 Abs. 3 gilt entsprechend.
+
+Was das Gesetz offenlässt: Es sagt nicht, wer zahlt, es setzt keine Frist, es gibt kein Recht auf eine bestimmte Marke — und keinen Anspruch ohne Stellplatz.
+
+ADAC und Verbraucherzentrale konkretisieren das so: Wer einen gemieteten Stellplatz oder Tiefgaragenplatz auf dem Grundstück hat, kann die Erlaubnis für einen Ladepunkt verlangen — in der Regel auf eigene Kosten. Ohne Stellplatz bleibt nach der Verbraucherzentrale (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) nur das öffentliche Laden — einen Anspruch auf eine private Box an der Straße gibt es nicht.
+
+Gut zu wissen: Der Vermieter darf nach dem ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) eine zusätzliche Kaution verlangen. Baut der Vermieter selbst, kann die Miete steigen. Und sehr hohe Kosten können im Einzelfall die Unzumutbarkeit begründen.
+
+Wohnen Sie zur Miete in einer Eigentumswohnung, können Sie die Eigentümerversammlung nicht selbst anrufen — der vermietende Eigentümer oder die Verwaltung muss den Punkt auf die Tagesordnung setzen (so der ADAC, gestützt auf § 554 BGB). Wie die Gerichte entscheiden, wenn der Eigentümer den Antrag nicht einbringt, ist bislang kaum geklärt — dazu gibt es erst wenige Fälle.
+
+## Was Wohnungseigentümer verlangen können
+
+Nach § 20 Abs. 2 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html) kann jeder Wohnungseigentümer angemessene bauliche Veränderungen verlangen, die dem Laden elektrisch betriebener Fahrzeuge dienen. Über die Durchführung beschließt die Gemeinschaft im Rahmen ordnungsmäßiger Verwaltung.
+
+Das heißt konkret: Sie diktieren weder das Gerät, noch ob Sie selbst oder die Gemeinschaft baut — das Wie entscheidet die Versammlung.
+
+Eine Grenze zieht § 20 Abs. 4 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html): Veränderungen, die die Anlage grundlegend umgestalten oder einen Eigentümer ohne sein Einverständnis unbillig benachteiligen, dürfen weder beschlossen noch gestattet oder verlangt werden.
+
+Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) fasst die Praxis so zusammen: Die Gemeinschaft muss in der Regel zulassen, entscheidet aber, wie gebaut wird. Der Antragsteller zahlt, wenn die Gemeinschaft nichts anderes beschließt. Und ein späterer Gemeinschaftsbeschluss für eine gemeinsame Ladeanlage kann eine frühere Einzelgestattung überholen (ADAC, Urteile (https://www.adac.de/news/urteil-wallbox/)).
+
+Für den Einbau gilt das Gleiche wie im Einfamilienhaus: Den Anschluss macht ein Elektrofachbetrieb, die Mitteilung an den Netzbetreiber bleibt nötig. Alle Details zur Anmeldung stehen auf der Seite Wallbox installieren und anmelden (https://heimwallbox.de/installation/). Was § 14a EnWG (https://heimwallbox.de/14a/) für die steuerbare Wallbox und das gesenkte Netzentgelt bedeutet, steht auf der eigenen Seite.
+
+## Was das GEIG regelt — und was nicht
+
+Das Gebäude-Elektromobilitätsinfrastruktur-Gesetz richtet sich an den, der baut oder in größerem Umfang renoviert. Dem einzelnen Mieter verschafft es keine fertige Wallbox — aber es sorgt dafür, dass neue und sanierte Gebäude vorbereitet sind.
+
+Die wichtigsten Regeln aus dem GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html), einschließlich der Änderung vom 23. Juli 2026:
+
+- § 6: Wer ein Wohngebäude mit mehr als fünf Stellplätzen errichtet, muss jeden Stellplatz mit Leitungsinfrastruktur ausstatten — also Trassen sowie Platz für Zähler und Schutztechnik. Eine fertige Wallbox an jedem Platz verlangt das Gesetz nicht.
+- § 8: Bei einer größeren Renovierung eines Wohngebäudes mit mehr als zehn Stellplätzen gilt dasselbe, wenn Parkplatz oder elektrische Infrastruktur betroffen sind.
+- § 7 und § 9: Für Nichtwohngebäude gelten eigene Schwellen — dort ist mindestens ein Ladepunkt vorgeschrieben.
+- § 10: Bestehende Nichtwohngebäude mit mehr als 20 Stellplätzen brauchen seit dem 1. Januar 2025 einen Ladepunkt.
+- § 14: Übersteigen Lade- und Leitungsinfrastruktur 7 Prozent der Kosten einer größeren Renovierung, greifen die §§ 8 bis 10 nicht.
+- § 15: Verstöße können mit einer Geldbuße bis 10.000 Euro geahndet werden.
+
+Wird ein Ladepunkt gebaut, gilt weiterhin die Mitteilungspflicht aus § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) (§ 5 GEIG). Ihr persönlicher Anspruch bleibt § 554 BGB oder § 20 WEG.
+
+## Was die Installation im Mehrfamilienhaus kostet
+
+Im Mehrfamilienhaus streuen die Preise stark. Der ADAC nennt eine Stichprobe von 2022: 12 Betriebe verlangten für einen Tiefgaragenplatz zwischen 1.045 und 5.200 Euro. The Charging Project ermittelte 2024 — vom ADAC zitiert — Grundinstallationen zwischen 251 und 4.487 Euro je Stellplatz in 24 WEG-Garagen.
+
+Solche Zahlen geben eine Orientierung — was Ihr Haus kostet, zeigt erst ein Angebot für Ihre Garage.
+
+Und welches Gerät darf es sein? Für die meisten reicht eine 11-kW-Box — der Vergleich Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/) hilft bei der Wahl.
+
+## Häufige Fragen von Mietern und Eigentümern
+
+### Darf der Vermieter mir die Wallbox verbieten?
+
+In der Regel nicht. Nach § 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html) können Sie verlangen, dass der Vermieter bauliche Änderungen erlaubt, die dem Laden elektrisch betriebener Fahrzeuge dienen. Der Anspruch entfällt nur, wenn die Änderung ihm auch unter Würdigung Ihrer Interessen nicht zuzumuten ist — sehr hohe Kosten können das im Einzelfall begründen. Eine Vereinbarung zu Ihrem Nachteil ist unwirksam.
+
+### Wer zahlt die Wallbox in der Mietwohnung?
+
+Das Gesetz lässt das offen. ADAC und Verbraucherzentrale konkretisieren: in der Regel zahlen Sie als Mieter selbst. Der Vermieter darf eine zusätzliche Kaution verlangen; baut er selbst, kann die Miete steigen. Voraussetzung des Anspruchs ist ein Stellplatz oder Tiefgaragenplatz auf dem Grundstück — eine private Box an der Straße können Sie nicht verlangen.
+
+### Was können Wohnungseigentümer nach § 20 WEG verlangen?
+
+Jeder Wohnungseigentümer kann angemessene bauliche Veränderungen verlangen, die dem Laden elektrisch betriebener Fahrzeuge dienen (§ 20 Abs. 2 Nr. 2 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html)). Die Versammlung entscheidet über das Wie der Durchführung, nicht über das Ob. Grenze: Veränderungen, die die Anlage grundlegend umgestalten oder einen Eigentümer unbillig benachteiligen, sind ausgeschlossen (§ 20 Abs. 4 WEG).
+
+### Gibt das GEIG Mietern einen Anspruch auf eine Wallbox?
+
+Nein. Das GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html) verpflichtet Bauherren und Eigentümer bei bestimmten Neubauten und größeren Renovierungen zu Leitungsinfrastruktur — dem einzelnen Mieter verschafft es keine fertige Wallbox. Ihr persönlicher Anspruch bleibt § 554 BGB oder § 20 WEG.
+
+### Was kostet die Wallbox am Tiefgaragenplatz?
+
+Die Preise streuen stark: In einer ADAC-Stichprobe von 2022 verlangten zwölf Betriebe für einen Tiefgaragenplatz zwischen 1.045 und 5.200 Euro; The Charging Project ermittelte 2024 Grundinstallationen zwischen 251 und 4.487 Euro je Stellplatz. Was Ihre Garage kostet, zeigt erst ein Angebot.
+
+## Quellen für diese Seite
+
+- § 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)
+- § 20 WEG (https://www.gesetze-im-internet.de/woeigg/__20.html)
+- GEIG (https://www.gesetze-im-internet.de/geig/BJNR035400021.html)
+- § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
+- ADAC, Tipps für Wohnungseigentümer und Mieter (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/)
+- ADAC, Urteile Wallbox (https://www.adac.de/news/urteil-wallbox/)
+- ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
+- Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557)
+
+---
+
+https://heimwallbox.de/14a/
+
+Wallbox-Ratgeber · Steuerbare Box
+
+# § 14a EnWG: Die steuerbare Wallbox
+
+Die neue Box an der Wand darf der Netzbetreiber im Engpass langsamer machen. Licht und Kühlschrank bleiben außen vor. Dafür zahlen Sie weniger Netzentgelt.
+
+## Die Kurzantwort
+
+Seit dem 1. Januar 2024 gilt: Eine neue private Wallbox mit mehr als 4,2 kW Netzanschlussleistung ist eine steuerbare Verbrauchseinrichtung. Das folgt aus § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html) und der Festlegung der Bundesnetzagentur vom 27. November 2023 (BK6-22-300 (https://www.bundesnetzagentur.de/DE/Beschlusskammern/1_GZ/BK6-GZ/2022/BK6-22-300/BK6-22-300_Beschluss.html)), in Kraft am 1. Januar 2024.
+
+Der Netzbetreiber darf den Bezug bei konkreter Überlastung vorübergehend auf 4,2 kW senken. Unter 4,2 kW darf er nicht. Der Haushaltsstrom bleibt unberührt. Im Gegenzug sinkt das Netzentgelt.
+
+Öffentlich zugängliche Ladepunkte im Sinn von § 2 Nr. 5 der Ladesäulenverordnung fallen nicht darunter. So die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html).
+
+## Wen das trifft
+
+Die Regelung gilt für steuerbare Verbrauchseinrichtungen mit mehr als 4,2 kW. Dazu zählen private Wallboxen, Wärmepumpen (auch Heizstäbe), Klimageräte und Speicher, soweit sie Strom aus dem Netz ziehen. Die gängigen Heim-Wallboxen liegen mit 11 kW oder 22 kW beide über dieser Grenze — welche davon zu Ihnen passt, klärt der Vergleich Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/).
+
+Wer unter § 14a EnWG fällt — nach der Festlegung der Bundesnetzagentur.
+- Neu, ab 1. Januar 2024, über 4,2 kW: Ja, Pflicht.
+- Neu, unter 4,2 kW: Nein. Wärmepumpen und Klimageräte desselben Betreibers kann der Netzbetreiber zusammenzählen.
+- Bestand vor dem 1. Januar 2024 mit alter Steuerungsvereinbarung: Alte Konditionen bis 31. Dezember 2028, danach die neuen Regeln. Ein früherer Wechsel ist möglich und dann bindend.
+- Bestand ohne alte Vereinbarung: Dauerhaft draußen. Wechsel freiwillig, dann bindend.
+- Nachtspeicherheizung: Bleibt bei den alten Regeln.
+
+## Was Sie abgeben
+
+Ab dem 1. Januar 2024 muss die Box dimmbar sein. Der Netzbetreiber darf nur dimmen, solange die konkrete Gefahr für das örtliche Netz andauert. Die Mindestleistung 4,2 kW bleibt. Die Bundesnetzagentur schreibt: Im Notfall lassen sich in zwei Stunden etwa 50 Kilometer nachladen. Sie rechnet mit geringen Einschränkungen (BNetzA-Verbraucherseite (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)).
+
+Solange das Netz noch nicht gut genug gemessen ist, darf er vorbeugend dimmen: höchstens zwei Stunden am Tag, höchstens 24 Monate ab dem ersten solchen Eingriff in diesem Netzbereich.
+
+Herd, Licht und Kühlschrank steuert er nicht.
+
+Er darf den Anschluss einer neuen privaten Wallbox oder Wärmepumpe nicht mehr mit dem Hinweis auf mögliche lokale Überlastung verweigern oder verzögern. Das ist die Gegenleistung der Festlegung vom 27. November 2023.
+
+## Was Sie dafür bekommen
+
+Das reduzierte Netzentgelt erscheint auf der Stromrechnung des Lieferanten. Einen neuen Vertrag mit dem Netzbetreiber brauchen Sie dafür nicht.
+
+Die Beträge zum Netzentgelt: Stand 2023.
+
+- Modul 1 ist eine Pauschale. Die Formel ist bundesweit gleich, der Betrag hängt vom Netzbetreiber ab. Die Bundesnetzagentur nennt 110 bis 190 Euro im Jahr, Stand 2023. Für rund 2.500 kWh Autostrom könne das zusätzliche Netzentgelt um 50 bis 95 Prozent sinken. Die Pauschale gibt es einmal je Marktlokation. Wer nichts wählt, bekommt Modul 1.
+- Modul 2 senkt den Netzentgelt-Arbeitspreis in der Niederspannung auf 40 Prozent. Das ist nicht der Arbeitspreis Ihres Stromvertrags. Dafür brauchen Sie einen eigenen Zähler. Auf diesem Zähler darf der Netzbetreiber keinen Grundpreis verlangen.
+- Modul 3 gibt es seit April 2025, nur zusammen mit Modul 1, nicht mit Modul 2. Drei Preisstufen (HT, NT, ST). Voraussetzung: intelligentes Messsystem, keine registrierende Leistungsmessung.
+
+## Was Sie tun müssen
+
+Die Inbetriebnahme der Box teilen Sie dem Netzbetreiber vorher mit. Das verlangt § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) sowieso, unabhängig von § 14a.
+
+Die Box braucht Mess- und Steuerungstechnik, in der Regel ein intelligentes Messsystem und eine Steuerbox. Ein Auftrag an den Messstellenbetreiber oder den Netzbetreiber reicht. Solange die Hardware fehlt, gilt das nicht als Verstoß gegen die Steuerbarkeit. Die Reduzierung des Netzentgelts beginnt, wenn der Netzbetreiber beauftragt ist.
+
+Einen eigenen Zähler verlangt die Regelung seit dem 1. Januar 2024 nicht mehr.
+
+Wie die Mitteilung an den Netzbetreiber im Alltag abläuft, steht auf der Seite Wallbox installieren und anmelden (https://heimwallbox.de/installation/).
+
+## Was Zähler und Steuerbox höchstens kosten
+
+Das ist nicht die Netzentgelt-Pauschale. Es sind gesetzliche Obergrenzen für den Messstellenbetrieb.
+
+ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/) und Verbraucherzentrale (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275): höchstens 50 Euro im Jahr für das intelligente Messsystem, höchstens 50 Euro im Jahr für die Steuerbox, wenn die Wallbox als steuerbare Verbrauchseinrichtung läuft. Ab 6.000 kWh Jahresverbrauch wird das intelligente Messsystem ohnehin Pflicht, so der ADAC.
+
+## Häufige Fragen zu § 14a EnWG
+
+### Darf der Netzbetreiber meine Wallbox drosseln?
+
+Ja, in engen Grenzen. Neue private Wallboxen mit mehr als 4,2 kW Netzanschlussleistung, die seit dem 1. Januar 2024 in Betrieb gehen, sind steuerbare Verbrauchseinrichtungen (§ 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html), Festlegung BK6-22-300). Bei einer konkreten Überlastung darf der Netzbetreiber den Bezug vorübergehend auf 4,2 kW senken — nie darunter. Herd, Licht und Kühlschrank steuert er nicht.
+
+### Gilt § 14a EnWG auch für meine bestehende Wallbox?
+
+Bestand von vor dem 1. Januar 2024 mit alter Steuerungsvereinbarung behält die alten Konditionen bis zum 31. Dezember 2028, danach gelten die neuen Regeln. Bestand ohne alte Vereinbarung bleibt dauerhaft draußen — ein Wechsel ist freiwillig und dann bindend.
+
+### Wie stark bremst das Dimmen auf 4,2 kW im Alltag?
+
+Die Bundesnetzagentur (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html) rechnet mit geringen Einschränkungen: Selbst gedimmt lassen sich in zwei Stunden etwa 50 Kilometer Reichweite nachladen. Vorbeugendes Dimmen — solange das Netz noch nicht ausreichend gemessen ist — ist auf höchstens zwei Stunden am Tag begrenzt und auf höchstens 24 Monate ab dem ersten Eingriff im jeweiligen Netzbereich.
+
+### Was bringt mir § 14a EnWG beim Netzentgelt?
+
+Das reduzierte Netzentgelt erscheint auf der Stromrechnung des Lieferanten. Modul 1 ist eine Pauschale — die Bundesnetzagentur nennt 110 bis 190 Euro im Jahr (Stand 2023); wer nichts wählt, bekommt automatisch Modul 1. Modul 2 senkt den Netzentgelt-Arbeitspreis in der Niederspannung auf 40 Prozent, braucht aber einen eigenen Zähler. Modul 3 gibt es seit April 2025 nur zusammen mit Modul 1.
+
+### Brauche ich für § 14a einen eigenen Zähler?
+
+Nein, seit dem 1. Januar 2024 nicht mehr — die Box muss nur steuerbar sein. Der Auftrag an Messstellenbetreiber oder Netzbetreiber für die Steuerungstechnik genügt. Für die laufenden Kosten gelten gesetzliche Obergrenzen: höchstens 50 Euro im Jahr für das intelligente Messsystem und höchstens 50 Euro im Jahr für die Steuerbox.
+
+## Quellen für diese Seite
+
+- § 14a EnWG (https://www.gesetze-im-internet.de/enwg_2005/__14a.html)
+- Bundesnetzagentur, Beschluss BK6-22-300 (https://www.bundesnetzagentur.de/DE/Beschlusskammern/1_GZ/BK6-GZ/2022/BK6-22-300/BK6-22-300_Beschluss.html)
+- Bundesnetzagentur, steuerbare Verbrauchseinrichtungen (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)
+- § 19 NAV (https://www.gesetze-im-internet.de/nav/__19.html)
+- ADAC, Wallbox-Kosten (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
+- Verbraucherzentrale, Smart Meter (https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275)

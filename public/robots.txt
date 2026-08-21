@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://heimwallbox.de/sitemap.xml
+# LLM-Index: https://heimwallbox.de/llms.txt
+# LLM-Volltext: https://heimwallbox.de/llms-full.txt
