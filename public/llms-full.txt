@@ -1,6 +1,6 @@
 # heimwallbox.de — Volltext für Sprachmodelle
 
-Stand: 22. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
+Stand: 27. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
 
 heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate- oder Tracking-Links, kein Shop. Der Shop-CTA auf allen vier URLs heißt weiter „Link folgt“ (je zwei Mal) — der Empfehlungslink ist nicht live.
 
@@ -168,13 +168,17 @@ Und eine gute Nachricht vorweg: Eine private Wallbox in Garage, Carport oder Ein
 
 Seit dem 1. Januar 2024 muss der Netzbetreiber die Mitteilung auch über seine Website annehmen (§ 19 Abs. 4 NAV (https://www.gesetze-im-internet.de/nav/__19.html)). Wie die Formulare heißen, ist von Netzbetreiber zu Netzbetreiber unterschiedlich — schauen Sie auf dessen Website oder fragen Sie Ihren Elektriker.
 
-Für die typische 11-kW-Box genügt die Mitteilung, weil die Summe unter 12 kVA bleibt. Für die typische 22-kW-Box kommt die Zustimmung dazu. Der ADAC verkürzt das auf „über 11 kW“ — die Verordnung selbst rechnet in kVA. Ob Sie 22 kW überhaupt brauchen, klärt der Ratgeber Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/).
+Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/) beschreibt den Ablauf so: In der Regel steht das Anmeldeformular auf der Website des Netzbetreibers und ist in wenigen Minuten ausgefüllt — vereinzelt genügt die formlose Mitteilung per E-Mail oder Post. Üblich sind Angaben wie Name und Adresse, Standort des Anschlusses und Zählernummer, maximale Netzentnahme in Kilovoltampere, Anzahl der Ladepunkte mit Leistungsdaten und Herstellerangaben zur Wallbox. Zuständig ist dabei der Netzbetreiber — in der Regel nicht Ihr Stromanbieter; wer es bei Ihnen ist, steht auf dem Stromzähler und der Jahresabrechnung.
+
+Die Mitteilungspflicht gilt für jede Wallbox — nach dem ADAC auch für mobile Geräte, die per Adapter an der normalen Steckdose laden. Für die typische 11-kW-Box genügt die Mitteilung, weil die Summe unter 12 kVA bleibt. Für die typische 22-kW-Box kommt die Zustimmung dazu. Der ADAC verkürzt das auf „über 11 kW“ — die Verordnung selbst rechnet in kVA. Ob Sie 22 kW überhaupt brauchen, klärt der Ratgeber Wallbox für zu Hause: 11 kW oder 22 kW (https://heimwallbox.de/).
 
 Eine Ausnahme nennt der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/): Für eine auf 11 kW gedrosselte 22-kW-Wallbox ist in der Regel keine Genehmigung erforderlich — dann reicht die Mitteilung. Das ist die Formulierung des ADAC, kein Automatismus für jeden Netzbetreiber.
 
 Stimmt der Netzbetreiber nicht zu, muss er den Hinderungsgrund nennen, mögliche Abhilfen aufzeigen und sagen, wie lange das dauert. Und seit der Festlegung der Bundesnetzagentur vom 27. November 2023 darf er den Anschluss einer neuen privaten Wallbox nicht mehr mit dem Verweis auf mögliche lokale Überlastung ablehnen oder verzögern (BNetzA (https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html)).
 
 Hat er zugestimmt, haben Sie nach dem ADAC (https://www.adac.de/fahrzeugwelt/wallbox/installation/) vier Monate Zeit, die Ladestation anzubringen. Diese Frist steht beim ADAC, nicht in der NAV — die Verordnung kennt nur die zwei Monate, in denen sich der Netzbetreiber äußern muss.
+
+Und wenn die Box gar nicht angemeldet ist? Der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/) beschreibt die möglichen Folgen: Lassen sich lokale Störungen im Stromnetz auf nicht angemeldete Wallboxen zurückführen, können Netzbetreiber theoretisch Schadenersatz von den verantwortlichen Haushalten verlangen — und es ist möglich, dass der Strom abgestellt wird. Ein Bußgeld nennt der ADAC nicht.
 
 ## § 14a EnWG: Ihre Wallbox ist steuerbar — und das senkt das Netzentgelt
 
@@ -233,9 +237,17 @@ Private Ladepunkte in Carport, Garage, Einfahrt oder auf dem eigenen Stellplatz 
 
 Ja. Nach § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) müssen Sie jede Ladeeinrichtung dem Netzbetreiber vor der Inbetriebnahme mitteilen — unabhängig von der Leistung. Die Anmeldung ist kostenlos, und in der Praxis reicht der Elektriker die Mitteilung ein. Seit dem 1. Januar 2024 muss der Netzbetreiber sie auch über seine Website annehmen.
 
-### Wann genügt die Mitteilung, wann braucht es die Zustimmung?
+### Wie melde ich die Wallbox beim Netzbetreiber an?
 
-Für die typische 11-kW-Box genügt die Mitteilung, weil die Summen-Bemessungsleistung unter 12 kVA bleibt. Darüber — etwa bei der typischen 22-kW-Box — braucht es vorher zusätzlich die Zustimmung des Netzbetreibers; er muss sich innerhalb von zwei Monaten äußern und darf eine neue private Wallbox nicht mit dem Verweis auf mögliche lokale Überlastung ablehnen oder verzögern.
+In der Regel über die Website des Netzbetreibers: Seit dem 1. Januar 2024 muss er die Mitteilung dort annehmen (§ 19 Abs. 4 NAV (https://www.gesetze-im-internet.de/nav/__19.html)), und nach dem ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/) ist das Formular in wenigen Minuten ausgefüllt — vereinzelt geht es auch formlos per E-Mail oder Post. Üblich sind Angaben wie Name und Adresse, Standort des Anschlusses und Zählernummer, maximale Netzentnahme in Kilovoltampere, Anzahl der Ladepunkte mit Leistungsdaten und Herstellerangaben zur Wallbox. Zuständig ist der Netzbetreiber — in der Regel nicht Ihr Stromanbieter; wer es bei Ihnen ist, steht auf dem Stromzähler und der Jahresabrechnung. In der Praxis übernimmt die Anmeldung oft der Elektrofachbetrieb.
+
+### Ab wann braucht die Wallbox die Zustimmung des Netzbetreibers?
+
+Sobald die Summen-Bemessungsleistung über 12 kVA je elektrische Anlage liegt (§ 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html)). Der ADAC verkürzt das auf „über 11 kW“ und spricht von einer Genehmigung. Für die typische 11-kW-Box genügt deshalb die Mitteilung, für die typische 22-kW-Box braucht es vorher zusätzlich die Zustimmung des Netzbetreibers — er muss sich innerhalb von zwei Monaten äußern und darf eine neue private Wallbox nicht mit dem Verweis auf mögliche lokale Überlastung ablehnen oder verzögern.
+
+### Was passiert, wenn ich die Wallbox nicht anmelde?
+
+Die Mitteilungspflicht aus § 19 Abs. 2 NAV (https://www.gesetze-im-internet.de/nav/__19.html) gilt unabhängig von der Leistung — nach dem ADAC auch für mobile Wallboxen, die per Adapter an der normalen Steckdose laden. Bleibt die Box unangemeldet, beschreibt der ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-anmelden/) zwei mögliche Folgen: Lassen sich lokale Störungen im Stromnetz auf nicht angemeldete Wallboxen zurückführen, können Netzbetreiber theoretisch Schadenersatz von den verantwortlichen Haushalten verlangen — und es ist möglich, dass der Strom abgestellt wird. Ein Bußgeld nennt der ADAC nicht.
 
 ### Darf ich die Wallbox selbst anschließen?
 
