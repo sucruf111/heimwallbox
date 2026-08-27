@@ -296,7 +296,7 @@ Als Mieter
 
 ### § 554 BGB
 
-Sie können verlangen, dass der Vermieter bauliche Änderungen erlaubt, die dem Laden von E-Fahrzeugen dienen (§ 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)). Der Anspruch entfällt nur, wenn die Änderung dem Vermieter auch unter Würdigung Ihrer Interessen nicht zuzumuten ist.
+Sie können verlangen, dass der Vermieter bauliche Änderungen erlaubt, die dem Laden von E-Fahrzeugen dienen (§ 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html)). Der Anspruch entfällt nur, wenn die Änderung dem Vermieter auch unter Würdigung Ihrer Interessen nicht zuzumuten ist. Stellen muss er die Wallbox damit nicht.
 
 Als Wohnungseigentümer
 
@@ -315,6 +315,8 @@ Was das Gesetz offenlässt: Es sagt nicht, wer zahlt, es setzt keine Frist, es g
 ADAC und Verbraucherzentrale konkretisieren das so: Wer einen gemieteten Stellplatz oder Tiefgaragenplatz auf dem Grundstück hat, kann die Erlaubnis für einen Ladepunkt verlangen — in der Regel auf eigene Kosten. Ohne Stellplatz bleibt nach der Verbraucherzentrale (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) nur das öffentliche Laden — einen Anspruch auf eine private Box an der Straße gibt es nicht.
 
 Gut zu wissen: Der Vermieter darf nach dem ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) eine zusätzliche Kaution verlangen. Baut der Vermieter selbst, kann die Miete steigen. Und sehr hohe Kosten können im Einzelfall die Unzumutbarkeit begründen.
+
+Wollen Sie als Mieter eine Wallbox installieren, stellen Sie den Antrag nach dem ADAC per Brief oder E-Mail. Eine eigenhändige Unterschrift ist nicht nötig, Fristen müssen Sie gegenüber dem Vermieter nicht beachten.
 
 Wohnen Sie zur Miete in einer Eigentumswohnung, können Sie die Eigentümerversammlung nicht selbst anrufen — der vermietende Eigentümer oder die Verwaltung muss den Punkt auf die Tagesordnung setzen (so der ADAC, gestützt auf § 554 BGB). Wie die Gerichte entscheiden, wenn der Eigentümer den Antrag nicht einbringt, ist bislang kaum geklärt — dazu gibt es erst wenige Fälle.
 
@@ -378,6 +380,14 @@ In der Regel nicht. Nach § 554 BGB (https://www.gesetze-im-internet.de/bgb/__55
 ### Wer zahlt die Wallbox in der Mietwohnung?
 
 Das Gesetz lässt das offen. ADAC und Verbraucherzentrale konkretisieren: in der Regel zahlen Sie als Mieter selbst. Der Vermieter darf eine zusätzliche Kaution verlangen; baut er selbst, kann die Miete steigen. Voraussetzung des Anspruchs ist ein Stellplatz oder Tiefgaragenplatz auf dem Grundstück — eine private Box an der Straße können Sie nicht verlangen.
+
+### Muss der Vermieter eine Wallbox stellen?
+
+Nein. § 554 BGB (https://www.gesetze-im-internet.de/bgb/__554.html) gibt Ihnen das Recht, dass der Vermieter bauliche Änderungen erlaubt, die dem Laden elektrisch betriebener Fahrzeuge dienen — nicht den Anspruch, dass er die Wallbox stellt. Die Installation verlangen Sie nach der Verbraucherzentrale (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) auf eigene Kosten; baut der Vermieter selbst, kann nach dem ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) die Miete steigen.
+
+### Wie stelle ich den Antrag auf eine Wallbox beim Vermieter?
+
+Nach dem ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/lademoeglichkeiten-mehrfamilienhaeusern/) per Brief oder E-Mail. Eine eigenhändige Unterschrift ist nicht nötig, Fristen müssen Sie gegenüber dem Vermieter nicht beachten. Wohnen Sie zur Miete in einer Eigentumswohnung, können Sie den Antrag nicht selbst bei der WEG stellen — der vermietende Eigentümer oder die Verwaltung muss ihn auf die Tagesordnung setzen (so der ADAC, gestützt auf § 554 BGB).
 
 ### Was können Wohnungseigentümer nach § 20 WEG verlangen?
 
