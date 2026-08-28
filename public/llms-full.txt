@@ -1,6 +1,6 @@
 # heimwallbox.de — Volltext für Sprachmodelle
 
-Stand: 28. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
+Stand: 29. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
 
 heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate- oder Tracking-Links, kein Shop. Der Shop-CTA auf allen vier URLs heißt weiter „Link folgt“ (je zwei Mal) — der Empfehlungslink ist nicht live.
 
@@ -77,7 +77,7 @@ Wie die Anmeldung praktisch abläuft, steht auf der Seite Wallbox installieren u
 
 - Stecker: Typ 2 ist der übliche Standard in Europa.
 - PV-Überschussladen: Haben Sie eine Solaranlage, kann eine passende Box bevorzugt den Strom vom eigenen Dach laden. Ob Ihr Wechselrichter und die Box zusammenarbeiten, prüft der Elektriker.
-- Abrechnung: Nur wenn Sie Ladestrom an Dritte weiterberechnen, gelten besondere Messregeln. Für das eigene Auto in der eigenen Garage reicht die Box ohne Abrechnungstechnik.
+- Abrechnung: Nur wenn Sie Ladestrom an Dritte weiterberechnen, gelten besondere Messregeln. Für das eigene Auto in der eigenen Garage reicht die Box ohne Abrechnungstechnik. Ob es dafür eine eichrechtskonforme oder MID-Box braucht — auch beim Dienstwagen —, steht unten in den häufigen Fragen.
 
 Sie wohnen zur Miete oder in der Eigentumswohnung? Dann klären Sie vor dem Kauf die Erlaubnis — welche Rechte Ihnen § 554 BGB und § 20 WEG geben, steht auf der Seite Wallbox als Mieter oder in der WEG (https://heimwallbox.de/mieter/).
 
@@ -121,6 +121,10 @@ Nein. Doppelt so schnell wie an einer 11-kW-Box lädt nur ein Auto, das 22 kW au
 
 Auf den Stecker — Typ 2 ist der übliche Standard in Europa —, bei einer Solaranlage auf das PV-Überschussladen (ob Wechselrichter und Box zusammenarbeiten, prüft der Elektriker) und auf die Abrechnung: Nur wenn Sie Ladestrom an Dritte weiterberechnen, gelten besondere Messregeln. Wer zur Miete oder in der Eigentumswohnung wohnt, klärt vor dem Kauf die Erlaubnis — die Rechte dafür stehen auf der Seite Wallbox als Mieter oder in der WEG (https://heimwallbox.de/mieter/).
 
+### Brauche ich eine eichrechtskonforme oder MID-Wallbox für zu Hause?
+
+Für das eigene Auto am eigenen Zähler: nein. Wird der Ladepunkt nur von Ihrem Haushalt genutzt und hängt er am eigenen Wohnungszähler, läuft die Abrechnung über den Haushaltsstrom — „Der Ladepunkt selbst muss nicht den eichrechtlichen Vorschriften entsprechen, da der Haushaltszähler bereits geeicht ist“ (ADAC (https://www.adac.de/fahrzeugwelt/wallbox/eichrechtskonform/)). Eine separate Abrechnung ist in der Regel nicht erforderlich, ratsam ist nur eine Zugangssicherung gegen unbefugte Nutzung. Besondere Messtechnik kann laut ADAC nötig werden, sobald abgerechnet wird: im Mehrfamilienhaus, beim Dienstwagen oder wenn Nachbarn und Bekannte mitladen. Dabei sind zwei Regelwerke zu trennen. Die Abrechnung unter mehreren Nutzern ist Sache des Eichrechts, also des Mess- und Eichgesetzes (MessEG): Gemeinschaftsladestationen an ausgewiesenen Parkplätzen müssen den gesetzlichen Eichvorschriften entsprechen; hängt die eigene Box am allgemeinen Zähler, empfiehlt der ADAC eine eichrechtskonforme Station oder die Nachrüstung mit einem MID-Zähler samt Nutzer-Authentifizierung per Schlüssel oder RFID-Chip. Der steuerliche Nachweis beim Dienstwagen ist davon getrennt: Seit dem 1. Januar 2026 wird verbrauchsgenau nach Kilowattstunden abgerechnet, den betrieblichen Anteil weisen Sie mit einem gesonderten stationären oder mobilen — beispielsweise wallbox- oder fahrzeuginternen — Stromzähler nach, und „Dieser Zähler muss nicht eichrechtskonform sein“ (BMF-Schreiben vom 21. Juli 2026 (https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2026-07-21-nutzung-betriebliches-kfz-privat.pdf?__blob=publicationFile), Rn. 19). Manche Arbeitgeber setzen trotzdem einen eichrechtskonformen Zähler voraus — stimmen Sie das vor dem Kauf mit dem Arbeitgeber ab (ADAC).
+
 ### Was kostet eine Wallbox ohne Einbau?
 
 Der ADAC nennt für das Gerät etwa 300 bis 2.000 Euro (Stand 2026): einfache Boxen 300 bis 600 Euro, Mittelklasse 600 bis 1.000 Euro, Premium 1.000 bis 2.000 Euro, bidirektionale Geräte 2.000 bis 3.000 Euro. Die Spannen für den Einbau stehen auf der Seite Wallbox-Installation (https://heimwallbox.de/installation/).
@@ -143,7 +147,9 @@ Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House G
 - ADAC, Wallbox-Ratgeber 2026 (https://www.adac.de/fahrzeugwelt/wallbox/ratgeber/)
 - ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
 - ADAC, Wallbox-Förderung 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/foerderung-wallbox/)
+- ADAC, eichrechtskonforme Wallbox (https://www.adac.de/fahrzeugwelt/wallbox/eichrechtskonform/)
 - BMV, Förderung Laden im Mehrparteienhaus (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)
+- BMF, Schreiben vom 21. Juli 2026 zur häuslichen Ladevorrichtung (https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2026-07-21-nutzung-betriebliches-kfz-privat.pdf?__blob=publicationFile)
 - Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) (Stand 24.07.2025)
 - Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/) (23.02.2022)
 - The Mobility House, Versand (https://www.mobilityhouse.com/de_de/lieferung-versand)
