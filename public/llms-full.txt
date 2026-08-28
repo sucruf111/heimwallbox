@@ -1,6 +1,6 @@
 # heimwallbox.de — Volltext für Sprachmodelle
 
-Stand: 27. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
+Stand: 28. August 2026. Sprache: Deutsch. Geltungsbereich: Wallbox zu Hause in Deutschland.
 
 heimwallbox.de fasst geltendes Recht und die auf den Seiten verlinkten Quellen zusammen. Keine eigenen Messungen, keine Affiliate- oder Tracking-Links, kein Shop. Der Shop-CTA auf allen vier URLs heißt weiter „Link folgt“ (je zwei Mal) — der Empfehlungslink ist nicht live.
 
@@ -97,6 +97,10 @@ Dazu kommt der Einbau durch den Elektriker — die Spannen dafür stehen auf der
 
 ## Häufige Fragen zur Wahl der Wallbox
 
+### Welche Wallbox für zu Hause soll ich kaufen — 11 kW oder 22 kW?
+
+Für die meisten Haushalte eine 11-kW-Wallbox: Ein E-Auto lädt nur so schnell, wie das Bordladegerät im Fahrzeug zulässt (ADAC (https://www.adac.de/fahrzeugwelt/wallbox/ratgeber/)), und über Nacht wird die Batterie auch an 11 kW voll. Eine 22-kW-Box lohnt sich vor allem für Vielfahrer, deren Auto 22 kW Wechselstrom tatsächlich verarbeiten kann — und sie braucht in der Regel die Zustimmung des Netzbetreibers.
+
 ### Reicht eine 11-kW-Wallbox für zu Hause?
 
 Für die meisten Haushalte ja. Sie lädt dreiphasig mit 16 Ampere, über Nacht wird die Batterie voll — und schneller, als das Bordladegerät des Autos zulässt, lädt ohnehin keine Wallbox. 11 kW ist deshalb die am häufigsten installierte Lösung im privaten Bereich.
@@ -113,9 +117,17 @@ In der Regel ja. Mitteilen müssen Sie jede Wallbox vor der Inbetriebnahme; lieg
 
 Nein. Doppelt so schnell wie an einer 11-kW-Box lädt nur ein Auto, das 22 kW auch annimmt. Viele E-Autos erlauben höchstens 11 kW — und ein Auto mit einphasigem Bordladegerät holt aus derselben Box höchstens 3,7 kW.
 
+### Worauf kommt es an, wenn ich eine Wallbox kaufen will?
+
+Auf den Stecker — Typ 2 ist der übliche Standard in Europa —, bei einer Solaranlage auf das PV-Überschussladen (ob Wechselrichter und Box zusammenarbeiten, prüft der Elektriker) und auf die Abrechnung: Nur wenn Sie Ladestrom an Dritte weiterberechnen, gelten besondere Messregeln. Wer zur Miete oder in der Eigentumswohnung wohnt, klärt vor dem Kauf die Erlaubnis — die Rechte dafür stehen auf der Seite Wallbox als Mieter oder in der WEG (https://heimwallbox.de/mieter/).
+
 ### Was kostet eine Wallbox ohne Einbau?
 
 Der ADAC nennt für das Gerät etwa 300 bis 2.000 Euro (Stand 2026): einfache Boxen 300 bis 600 Euro, Mittelklasse 600 bis 1.000 Euro, Premium 1.000 bis 2.000 Euro, bidirektionale Geräte 2.000 bis 3.000 Euro. Die Spannen für den Einbau stehen auf der Seite Wallbox-Installation (https://heimwallbox.de/installation/).
+
+### Gibt es noch Förderung für die Wallbox zu Hause?
+
+Für die einzelne Wallbox im Eigenheim nicht mehr: Die KfW-Zuschüsse gibt es laut ADAC (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/foerderung-wallbox/) seit 2024 nicht mehr. Das neue Bundesprogramm „Laden im Mehrparteienhaus“ fördert seit dem 15. April 2026 Ladeinfrastruktur in und an Mehrparteienhäusern — Anträge sind bis zum 10. November 2026 möglich (BMV (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)). Einige Bundesländer sowie viele Städte und Gemeinden bieten laut ADAC weiterhin eigene Zuschüsse an. Was das Programm je Stellplatz zahlt und wer antragsberechtigt ist, steht auf der Seite Wallbox als Mieter oder in der WEG (https://heimwallbox.de/mieter/).
 
 ## Unsere Wallbox-Empfehlungen
 
@@ -130,6 +142,8 @@ Zur Einordnung: Hinter dem Shop mobilityhouse.com steht die The Mobility House G
 - ADAC, Wallbox installieren (https://www.adac.de/fahrzeugwelt/wallbox/installation/)
 - ADAC, Wallbox-Ratgeber 2026 (https://www.adac.de/fahrzeugwelt/wallbox/ratgeber/)
 - ADAC, Wallbox-Kosten 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/)
+- ADAC, Wallbox-Förderung 2026 (https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/foerderung-wallbox/)
+- BMV, Förderung Laden im Mehrparteienhaus (https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/028-schnieder-foerderung-laden-mehrfamilienhaus.html)
 - Verbraucherzentrale, eigene Ladestation (https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557) (Stand 24.07.2025)
 - Stiftung Warentest, Planung (https://www.test.de/Wallboxen-im-Test-5427770-5850662/) (23.02.2022)
 - The Mobility House, Versand (https://www.mobilityhouse.com/de_de/lieferung-versand)
